@@ -1,0 +1,39 @@
+# Output directory for generated files
+output/
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.log
+*.lof
+*.lot
+*.nav
+*.out
+*.pdfsync
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+*_minted-*
+*~
+
+# Pandoc temporary files (if any)
+# (Usually not needed, but just in case)
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
