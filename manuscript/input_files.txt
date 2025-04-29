@@ -1,0 +1,9 @@
+manuscript/00_introduction.md
+manuscript/01_foundations.md
+manuscript/02_metaphysics.md
+manuscript/03_core_theses.md
+manuscript/04_qualia.md
+manuscript/05_argumentation.md
+manuscript/06_comparison.md
+manuscript/07_objections.md
+manuscript/08_conclusion.md
