@@ -1,7 +1,7 @@
 
 # 4. Explaining Subjectivity and Qualia in EPET
 
-A central task for any consciousness theory is explaining **qualia**, the subjective quality of experience [@tyeQualia2021]. How do brain processes generate the "what is it like?" [@nagelPhilosophicalReview1974]? This "hard problem" [@chalmersFacingProblemConsciousness1995] challenges integration of consciousness into science.
+A central task for any consciousness theory is explaining **qualia**, the subjective quality of experience [@tyeQualia2021]. How do brain processes generate the "what is it like?" [@nagelWhatItLikeBat1980]? This "hard problem" [@chalmersFacingProblemConsciousness1995] challenges integration of consciousness into science.
 
 EPET offers a scientific-philosophical explanation of phenomenal experience's structure, characteristics, and realization within emergentist ontology. It reframes the hard problem, providing a **mechanistic explanation** of how **integrated predictive modeling in an embodied system** inherently **realizes** subjectivity and qualia.
 

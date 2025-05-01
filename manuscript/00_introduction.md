@@ -2,7 +2,7 @@
 
 ## 1. The Enigma of Consciousness
 
-Consciousness is a profound phenomenon. Each of us has direct access to our subjective experience: seeing colors, hearing sounds, feeling emotions, being aware of ourselves. This inner, qualitative aspect, the "what is it like?" [@nagelPhilosophicalReview1974], constitutes consciousness. This subjectivity poses a fundamental problem: How to reconcile this private world with the objective picture from science? How does the brain generate the seemingly immaterial quality of experience?
+Consciousness is a profound phenomenon. Each of us has direct access to our subjective experience: seeing colors, hearing sounds, feeling emotions, being aware of ourselves. This inner, qualitative aspect, the "what is it like?" [@nagelWhatItLikeBat1980], constitutes consciousness. This subjectivity poses a fundamental problem: How to reconcile this private world with the objective picture from science? How does the brain generate the seemingly immaterial quality of experience?
 
 This "hard problem of consciousness" [@chalmersFacingProblemConsciousness1995] remains a major intellectual challenge. Despite progress in mapping neural correlates of consciousness (NCC) [@kochConsciousnessConfessionsRomantic2017; @tononiIntegratedInformationTheory2016; @dehaeneConsciousnessBrainDeciphering2014], the gap between brain processes and subjective quality persists. Solving this enigma requires an interdisciplinary approach integrating data from neurobiology, cognitive psychology, physics, philosophy, and potentially other traditions.
 
