@@ -31,7 +31,8 @@ The functional roles ascribed to prediction errors and precision are empirically
 
 **5.1.6. Global Availability (GWT) for Integration and Access:**
 Using GWT for integration and access is grounded in its empirical support.
-*   **Scientific data:** Conscious perception correlates with late, widespread neural activation ("ignition," P3b component), involving prefrontal-parietal networks, consistent with broadcasting in a global workspace [@dehaeneCerebralMechanismsWord2001; @sergentTimingBrainEvents2005; @dehaeneConsciousnessBrainDeciphering2014]. Split-brain studies highlight the role of large-scale integration for unified conscious access [@gazzanigaCerebralSpecializationInterhemispheric2000].
+*   **Scientific data:** Conscious perception correlates with late, widespread neural activation ("ignition," P3b component), involving prefrontal-parietal networks, consistent with broadcasting in a global workspace [@dehaeneCerebralMechanismsWord2001; @sergentTimingBrainEvents2005; @dehaeneConsciousnessBrainDeciphering2014]. Split-brain studies highlight the role of large-scale integration for unified conscious access [@gazzanigaCerebralSpecializationInterhemispheric2000]. Furthermore, empirical studies of mindfulness meditation [@lutzAttentionRegulationMonitoring2008; @tangNeuroscienceMindfulnessMeditation2015] reveal systematic modulations in attention networks and DMN connectivity, findings that EPET can account for through mechanisms like shifts in the precision-weighting of interoceptive versus exteroceptive prediction errors, illustrating how alterations in self-model stability give rise to distinct conscious states.
+
 *   **Buddhist concepts:** GWT offers a plausible neural basis for how diverse aspects of experience, analyzed via the ***Khandhas***, become integrated into the unified field of moment-to-moment consciousness (***Viññāṇa***) [@bodhiComprehensiveManualAbhidhamma2000].
 
 ## 5.2. Support for Thesis 2: Integration and Unity of Experience without a Substantial "Self"
@@ -48,14 +49,16 @@ EPET's rejection of a substantial self aligns with both science and Buddhism.
 
 **5.2.3. "Self" as a Construct of Self-Modeling (PP + *Saṅkhāra*):**
 The view of the self as a dynamic construct of predictive self-modeling is supported by converging evidence.
-*   **Scientific data:** Theoretical development of self-modeling within the PP framework is advancing [@hohwyPredictiveMind2013; @sethBeingYouNew2021]. Neuropsychological conditions like anosognosia demonstrate dissociations in self-awareness [@fotopoulouImplicitAwarenessAnosognosia2010]. Strikingly, ASC studies report experiences of **ego dissolution**, interpreted as temporary disruption of self-models, under psychedelics or deep meditation [@nourEgodissolutionPsychedelicsValidation2016; @carhart-harrisEntropicBrainTheory2014].
+*   **Scientific data:** Theoretical development of self-modeling within the PP framework is advancing [@hohwyPredictiveMind2013; @sethBeingYouNew2021]. Neuropsychological conditions like anosognosia demonstrate dissociations in self-awareness [@fotopoulouImplicitAwarenessAnosognosia2010]. Strikingly, ASC studies report experiences of **ego dissolution**, interpreted as temporary disruption of self-models, under psychedelics or deep meditation [@nourEgodissolutionPsychedelicsValidation2016; @carhart-harrisEntropicBrainTheory2014]. For example, Nour et al. [@nourEgodissolutionPsychedelicsValidation2016] report that psilocybin-induced ego-dissolution correlates with reduced integrity of the default-mode network, which EPET interprets as a transient breakdown of high-level self-model priors, thereby supporting the view of the self as a dynamically generated construct rather than a substantive entity.
+
 *   **Buddhist concepts:** This resonates strongly with the role of ***Saṅkhāra*** in constructing mental formations, including the sense of a persistent "I," and explains why this sense can feel illusory yet compelling [@bodhiComprehensiveManualAbhidhamma2000].
 
 ## 5.3. Support for the Explanation of Qualia (Section 4)
 
 **5.3.1. Qualia as Properties of the Process:**
 Viewing qualia as intrinsic properties of the modeling process finds support.
-*   **Scientific data:** Specific qualia reliably correlate with activity in specific neural systems (e.g., V4/color [@zekiVisionBrain1993], insula/affect [@craigHowYouFeel2009]). The observed **plasticity of qualia** during ASCs [@carhart-harrisEntropicBrainTheory2014] supports the idea that qualia reflect the *current state* of the modeling process, rather than being fixed entities.
+*   **Scientific data:** Specific qualia reliably correlate with activity in specific neural systems (e.g., V4/color [@zekiVisionBrain1993], insula/affect [@craigHowYouFeel2009]). The observed **plasticity of qualia** during ASCs [@carhart-harrisEntropicBrainTheory2014] supports the idea that qualia reflect the *current state* of the modeling process, rather than being fixed entities. Moreover, Carhart-Harris et al. [@carhart-harrisEntropicBrainTheory2014] demonstrate that psychedelic states exhibit increased neural entropy and markedly altered phenomenological qualities; EPET explains this by the re-weighting of precision signals in predictive hierarchies, directly linking qualia variability to the dynamics of hierarchical inference processes.
+
 *   **Buddhist concepts:** This view aligns with understanding the phenomenal qualities associated with ***Vedanā*** (valence) and ***Saññā*** (recognition) as characteristics of the dependently arisen (**Paṭiccasamuppāda**) process of experience itself.
 
 **5.3.2. Dimensions of Qualia (Specificity, Intensity, Valence):**

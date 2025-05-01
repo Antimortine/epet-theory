@@ -2,7 +2,14 @@
 
 This work presented the Emergent Predictive Experience Theory (EPET), an integrative philosophical theory of consciousness based on non-reductive physicalism. EPET views consciousness as a **real, emergent, dynamic, embodied process** arising from the specific organization and activity of the brain-body-environment system.
 
-Key mechanisms are **Predictive Processing (PP)** (generating content/quality via modeling) and **Global Workspace Theory (GWT)** (integration, access). **Qualia** are explained as **intrinsic properties of the integrated predictive modeling process**, reflecting interaction representation and relevance. The **"self"** is interpreted as a **dynamic construct of self-modeling**, aligning with **Anattā (no-self)**, supported by neuroscience/ASC studies.
+EPET’s primary contribution is its integrated, non-reductive synthesis: it constitutively explains qualia as intrinsic features of hierarchical predictive processing and grounds the sense of self in dynamically maintained self-models compatible with the Anattā doctrine. This unified account overcomes key challenges—such as the “Hard Problem,” the Cartesian Theater, and the substance-dualism bias—by showing how conscious experience and selfhood emerge naturally from precision-weighted inference and global broadcasting.
+
+Building on this synthesis, EPET relies on two central mechanisms and two core constructs:
+
+- **Predictive Processing (PP):** Generating content and quality through hierarchical Bayesian inference, where precision-weighted priors and sensory evidence dynamically shape experience.
+- **Global Workspace Theory (GWT):** Facilitating integration and conscious access via recurrent loops and ignition mechanisms that broadcast high-level hypotheses across distributed networks.
+- **Qualia:** Understood as intrinsic properties of the integrated predictive modeling process, reflecting the relevance and contextual embedding of representational states.
+- **Self:** Interpreted as a dynamically maintained self-model, aligning with the Anattā doctrine by emphasizing the processual and non-substantial nature of personal identity.
 
 ## Main Achievements and Strengths of EPET:
 
@@ -10,7 +17,15 @@ EPET's strength is its **integrative approach**, synthesizing insights from cons
 
 ## Acknowledgment of Limitations and Open Questions:
 
-EPET, like any current theory, has limitations: the "hard problem" response remains debatable; mechanistic details (PP-GWT interaction, valence generation) need refinement; more empirical testing is required; the full spectrum of phenomena might not be covered; Buddhist concept interpretations can be discussed.
+EPET, like any current theory, has limitations:
+
+- The "hard problem" response remains debatable.
+- Mechanistic details (PP-GWT interaction, valence generation) need refinement.
+- More empirical testing is required.
+- The full spectrum of phenomena might not be covered.
+- Buddhist concept interpretations can be discussed.
+- Underspecified PP↔GWT mechanisms: Although EPET posits that precision-weighted prediction errors are broadcast via recurrent loops and phase synchrony, the exact neural implementation—e.g., the cellular circuits mediating precision tagging and the temporal dynamics of global ignition—remains to be empirically detailed.
+- Boundaries of applicability: EPET’s framework assumes human-like hierarchical inference architectures; its applicability to non-human animals with different predictive hierarchies or to artificial systems (e.g., deep learning networks) requires further theoretical adaptation and experimental validation.
 
 ## Directions for Future Research:
 
