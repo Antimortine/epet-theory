@@ -25,7 +25,11 @@ EPET builds upon key developments in cognitive science:
 -   **Embodied Cognition Concepts:** Emphasizing the link between consciousness, body, action, and environment, including interoception [@varelafranciscoEmbodiedMindCognitive1991; @clarkBeingTherePutting1998; @damasioDescartesError2006; @sethInteroceptiveInferenceEmotion2013].
     
 
-EPET integrates these components into a coherent structure to explain key aspects of consciousness, including subjectivity.
+EPET integrates these components into a coherent structure to explain key aspects of consciousness, including subjectivity. The novelty of EPET lies not merely in combining existing components (Predictive Processing, Global Workspace Theory, embodiment, and Buddhist concepts), but specifically in their deep and systematic **philosophical synthesis**, which forms a fundamentally new integrative model of consciousness. EPET distinctively articulates a philosophically rigorous position that aims to successfully address central problems in consciousness studies, such as the 'hard problem' of qualia and the unity of consciousness without a substantial subject. Furthermore, it offers a specific account of the role of embodiment and interoception in phenomenal experience, while avoiding both dualism and panpsychism.
+
+This unique synthesis provides novel heuristic and explanatory power: EPET generates specific, empirically testable hypotheses (e.g., dissociating qualia intensity from access via precision weighting, explaining affective valence via interoceptive prediction error) not offered by any single constituent theory alone.
+
+In contrast to some other integrative approaches (e.g., Safron's Integrated World Modeling Theory (IWMT) [@safronIntegratedWorldModeling2020] or Ramstead et al.'s Minimal Unifying Model (MUM) [@ramsteadStepsMinimalUnifying2023]), EPET deliberately employs a clear conceptual framework of weak emergentism combined with explicit Buddhist conceptual constraints. This focus allows for greater clarity and specificity in its predictions and explanations compared to potentially more abstract or broader integrative models.
 
 ## 4. Three Guiding Principles of EPET
 

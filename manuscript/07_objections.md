@@ -39,7 +39,9 @@ Anticipating and responding to potential criticism is crucial for evaluating any
 ## 7.7. Objection 7: Unfalsifiability of the Theory
 
 *   **Objection:** EPET's claims might seem too abstract to test or falsify [@popperLogicScientificDiscovery2005].
-*   **EPET's Response:** Like other broad frameworks, EPET isn't falsifiable by a single experiment. However, it's not empirically vacuous; it **generates testable hypotheses** (Section 8.4) concerning the interaction of its components (PP, GWT) and phenomenology (e.g., linking modeling parameters to qualia reports). EPET's evaluation depends on standard scientific virtues: **consistency, explanatory power, data integration, predictive capacity, and comparison with alternatives** [@kuhnStructureScientificRevolutions1997; @lakatosMethodologyScientific1978].
+*   **EPET's Response:** EPET explicitly aims at empirical testability and falsifiability, aligning with scientific standards in consciousness research. It is not limited to philosophical arguments or metaphysical interpretations but explicitly specifies concrete conditions under which its hypotheses can be tested and potentially falsified.
+
+    The empirical novelty of EPET lies in its integrative framework, which allows for hypotheses that cannot straightforwardly be derived from individual constituent theories (PP, GWT, embodiment alone). EPET generates distinct predictions about how particular neural and cognitive parameters should correlate with qualia intensity, conscious access, and affective valence. Like other broad scientific frameworks, EPET as a whole may not be falsifiable by a single crucial experiment, but its core tenets lead to specific, testable predictions (detailed in Section 8.4). The evaluation of EPET depends on its internal consistency, explanatory power, ability to integrate data, predictive capacity regarding new experiments, and comparison with alternative theories [@kuhnStructureScientificRevolutions1997; @lakatosMethodologyScientific1978].
 
 ## 7.8. Section Conclusion
 

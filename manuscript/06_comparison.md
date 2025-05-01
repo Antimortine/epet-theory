@@ -52,4 +52,12 @@ Comparing EPET with other theories highlights its strengths and positioning. EPE
 
 ## 6.9. Conclusion: Positioning EPET
 
-EPET occupies a unique niche as an **integrative, emergentist, first-order theory**. While PP/GWT synthesis is explored elsewhere, EPET is distinguished by its **philosophical focus**, **specific component set**, and **integration with Buddhist concepts**. It offers a naturalistic, non-eliminative, non-reductive explanation of **qualia** and **self**, compatible with science and Buddhism, aiming for a coherent response amidst theoretical disagreements [@sethUnpackingComplexitiesConsciousness2025]. Avoiding extremes, EPET provides a framework for understanding consciousness.
+EPET’s positioning among alternative consciousness theories demonstrates clear strengths when evaluated by criteria such as explanatory and heuristic power, empirical testability, ability to solve central philosophical problems (including the 'hard problem'), and philosophical coherence without problematic metaphysical assumptions.
+
+Compared to **pure Predictive Processing theories**, EPET fully addresses conscious accessibility and unity via explicit integration with Global Workspace Theory and embodiment. In contrast to **standard Global Workspace Theory alone**, EPET’s integration of Predictive Processing provides a mechanistic and embodied explanation of qualia and subjective content generation.
+
+Unlike **Integrated Information Theory (IIT)**, EPET avoids computational intractability and panpsychist implications, providing a clear emergentist physicalist framework that explains consciousness dynamically and empirically testably. EPET rejects **illusionism’s** counterintuitive denial of phenomenality, instead providing a naturalistic and constitutive account of qualia consistent with empirical data and phenomenological intuitions.
+
+EPET also surpasses **panpsychism** by resolving the combination problem and avoiding its empirical untestability. Compared to **Higher-Order theories**, EPET explains phenomenal consciousness at a primary process level, thus sidestepping difficulties associated with infinite regress and meta-representation. Finally, relative to **other integrative approaches (IWMT, MUM)**, EPET is distinguished by its explicit philosophical rigor, precise predictions, clear conceptual constraints, and empirically grounded hypotheses.
+
+EPET thus offers a philosophically preferable alternative to competing approaches, avoiding extremes such as dualism, panpsychism, or illusionism, and stating empirical conditions under which its core predictions can be falsified or supported, thus aligning itself clearly with scientific rigor and explanatory adequacy.
