@@ -20,9 +20,9 @@ Within physicalism, EPET rejects **strong reductionism** [@brigandtReductionismB
         
     -   Epistemic Irreducibility: Consciousness properties/dynamics **cannot be fully explained or predicted** solely in low-level physics terms. Higher-level concepts (cognitive science, EPET) are **indispensable**.
         
-    -   Rejection of Strong Emergence: EPET does not posit consciousness having fundamental causal powers altering physics laws [@oconnorEmergentProperties2021].
+    -   Rejection of Strong Emergence: EPET does not posit consciousness having fundamental causal powers altering physics laws [@oconnorEmergentProperties2021]. This rejection stems from the commitment to the ontological dependence of consciousness on underlying physical processes and the principle of the causal closure of the physical domain at the fundamental level, thus avoiding the postulation of novel 'downward causation' forces that would violate or supplement fundamental physics.
         
-4.  **Causal Efficacy:** Consciousness as a high-level process is **causally efficacious** [@kimMindPhysicalWorld2000]. High-level causal descriptions (e.g., "awareness of danger caused fear") are valid explanations, realized via physical processes. The conscious process participates in causal chains.
+4.  **Causal Efficacy:** Consciousness as a high-level process is **causally efficacious** [@kimMindPhysicalWorld2000]. High-level causal descriptions (e.g., "awareness of danger caused fear") are valid explanations, realized via physical processes. The conscious process participates in causal chains not by altering fundamental physical laws, but by acting as a higher-level organizational pattern that constrains and guides lower-level neural dynamics towards adaptive behavioral outcomes. Its causal relevance can be understood through frameworks like interventionism, where changes in the conscious state reliably lead to changes in behavior.
     
 
 EPET's metaphysics acknowledges consciousness's reality and causal role without dualism, maintaining compatibility with the physical worldview.

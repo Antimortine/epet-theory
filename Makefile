@@ -17,6 +17,8 @@ METADATA = assets/metadata.yaml
 # Файл библиографии
 BIB_FILE = assets/references.bib
 
+CSL_FILE = assets/csl/chicago-author-date.csl
+
 # (Опционально) Файл шаблона LaTeX
 # LATEX_TEMPLATE = assets/templates/default.latex
 
@@ -43,7 +45,7 @@ all: $(OUTPUT_PDF)
 
 # Правило для сборки PDF
 # Зависит от всех .md файлов, файла метаданных, файла библиографии и самого Makefile
-$(OUTPUT_PDF): $(MD_FILES_LIST) $(METADATA) $(BIB_FILE) Makefile $(shell find manuscript -name '*.md')
+$(OUTPUT_PDF): $(MD_FILES_LIST) $(METADATA) $(BIB_FILE) $(CSL_FILE) Makefile $(shell find manuscript -name '*.md')
 	@echo ">>> Собираем PDF файл: $(OUTPUT_PDF) ..."
 	@mkdir -p output # Создаем директорию output, если ее нет
 	$(PANDOC) $(PANDOC_OPTIONS) $(MD_FILES) -o $@

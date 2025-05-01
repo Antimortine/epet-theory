@@ -18,7 +18,7 @@ This work formulates such an integrative theory – the **Emergent Predictive Ex
 
 EPET builds upon key developments in cognitive science:
 
--   **Predictive Processing Theories (PP / Predictive Coding, PC / Free Energy Principle, FEP):** Viewing the brain as a prediction machine modeling the world and self [@fristonFreeenergyPrincipleUnified2010; @clarkWhateverNextPredictive2013; @hohwyPredictiveMind2013].
+-   **Predictive Processing Theories (PP / Predictive Coding, PC / Free-Energy Principle, FEP):** Viewing the brain as a prediction machine modeling the world and self [@fristonFreeenergyPrincipleUnified2010; @clarkWhateverNextPredictive2013; @hohwyPredictiveMind2013].
     
 -   **Global Workspace Theory (GWT / Global Neuronal Workspace Theory, GNWT):** Explaining information integration and conscious access via broadcasting [@baarsCognitiveTheoryConsciousness1993; @dehaeneCerebralMechanismsWord2001; @dehaeneConsciousnessBrainDeciphering2014].
     

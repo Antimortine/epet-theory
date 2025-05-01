@@ -61,6 +61,8 @@ Viewing qualia as intrinsic properties of the modeling process finds support.
 
 *   **Buddhist concepts:** This view aligns with understanding the phenomenal qualities associated with ***Vedanā*** (valence) and ***Saññā*** (recognition) as characteristics of the dependently arisen (**Paṭiccasamuppāda**) process of experience itself.
 
+Furthermore, EPET's framework can generate specific predictions regarding existing experimental paradigms. For instance, studies using Transcranial Magnetic Stimulation (TMS) to temporarily disrupt activity in nodes of the Default Mode Network (DMN) [@northoffSelfreferentialProcessingOur2006; @raichleBrainsDefaultMode2015] should, according to EPET's Thesis 2.3, specifically impair tasks requiring stable predictive self-modeling (e.g., judgments about personality traits, autobiographical memory coherence, or agency attribution) to a greater extent than tasks relying on external sensory processing. The magnitude of this impairment should correlate with TMS parameters influencing the disruption of predictive model stability within the DMN. Such targeted predictions allow for further empirical validation or refinement of EPET using established methodologies.
+
 **5.3.2. Dimensions of Qualia (Specificity, Intensity, Valence):**
 Mapping phenomenal dimensions to process parameters is plausible.
 *   **Scientific data:** Specificity correlates with activity patterns/locations; intensity often correlates with signal amplitude/synchrony/precision; valence strongly correlates with activity in interoceptive and limbic networks involved in evaluating bodily states and relevance. [Further specific references could strengthen this, but the general correlations are established].
