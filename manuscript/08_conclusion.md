@@ -70,9 +70,3 @@ EPET generates specific, potentially falsifiable hypotheses:
 ## Final Statement:
 
 EPET is proposed not as the final word, but as a fruitful, coherent, empirically grounded framework offering a **constitutive, mechanistic, and naturalistic explanation** of subjective experience within non-reductive physicalism. By synthesizing predictive processing, global access, embodiment, emergentism, and Buddhist insights, EPET aims to advance our understanding of subjective experience, stimulating further discussion, critique, and research.
-
-<!-- Empty line before the heading -->
-
-# References {-}
-
-<!-- Pandoc will automatically insert the bibliography AFTER this point -->

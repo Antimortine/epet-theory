@@ -62,7 +62,7 @@ submission_pdf: $(MD_FILES_LIST) $(ANONYMOUS_METADATA) Makefile $(shell find man
 		--standalone \
 		--pdf-engine=$(PDF_ENGINE) \
 		--toc \
-		--suppress-bibliography \
+		-V bibliography=false \
 		$(MD_FILES) -o $(ANONYMOUS_PDF_OUTPUT)
 	@echo ">>> Сборка АНОНИМНОГО PDF завершена."
 
