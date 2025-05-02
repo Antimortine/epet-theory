@@ -1,3 +1,6 @@
+Word Count (excluding bibliography): 9700
+
+
 # Introduction: Towards an Integrative Theory of Consciousness
 
 ## 1. The Enigma of Consciousness
