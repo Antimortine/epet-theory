@@ -2,6 +2,7 @@
 
 # Имя основного выходного PDF файла
 OUTPUT_PDF = output/EPET_Theory.pdf
+ANONYMOUS_PDF_OUTPUT = output/EPET_Manuscript_Anonymous.pdf
 
 # Исходные Markdown файлы (читаем из файла)
 # Используем find для поиска md файлов в директории manuscript,
@@ -13,6 +14,7 @@ MD_FILES = $(shell cat $(MD_FILES_LIST)) # Читаем порядок из фа
 
 # Файл метаданных
 METADATA = assets/metadata.yaml
+ANONYMOUS_METADATA = assets/metadata_anonymous.yaml
 
 # Файл библиографии
 BIB_FILE = assets/references.bib
@@ -51,6 +53,19 @@ $(OUTPUT_PDF): $(MD_FILES_LIST) $(METADATA) $(BIB_FILE) $(CSL_FILE) Makefile $(s
 	$(PANDOC) $(PANDOC_OPTIONS) $(MD_FILES) -o $@
 	@echo ">>> Сборка PDF завершена."
 
+# Новая цель для сборки анонимного PDF для журнала
+submission_pdf: $(MD_FILES_LIST) $(ANONYMOUS_METADATA) Makefile $(shell find manuscript -name '*.md')
+	@echo ">>> Собираем АНОНИМНЫЙ PDF для журнала: $(ANONYMOUS_PDF_OUTPUT) ..."
+	@mkdir -p output
+	$(PANDOC) \
+		--metadata-file=$(ANONYMOUS_METADATA) \
+		--standalone \
+		--pdf-engine=$(PDF_ENGINE) \
+		--toc \
+		--suppress-bibliography \
+		$(MD_FILES) -o $(ANONYMOUS_PDF_OUTPUT)
+	@echo ">>> Сборка АНОНИМНОГО PDF завершена."
+
 # Цель для очистки сгенерированных файлов
 clean:
 	@echo ">>> Очистка директории output..."
@@ -58,4 +73,4 @@ clean:
 	@echo ">>> Очистка завершена."
 
 # Фиктивные цели (чтобы make не путал их с файлами)
-.PHONY: all clean
+.PHONY: all clean submission_pdf
