@@ -1,0 +1,25 @@
+---
+title: "Emergent Predictive Experience Theory (EPET): An Integrative Philosophy of Consciousness"
+# --- Bibliography and Citations ---
+bibliography: assets/references.bib
+csl: assets/csl/chicago-author-date.csl
+link-citations: true
+# --- Document Settings ---
+lang: en-US
+documentclass: article
+fontsize: 11pt
+geometry: "a4paper, margin=2.5cm"
+# --- Table of Contents Settings ---
+toc: true
+toc-depth: 2
+# --- PDF Settings (via LaTeX/XeLaTeX) ---
+# pdf-engine: xelatex
+mainfont: "DejaVu Serif"
+sansfont: "DejaVu Sans"
+monofont: "DejaVu Sans Mono"
+# Set language for polyglossia (recommended for XeLaTeX)
+polyglossia-lang:
+  main: english
+# Other languages can be added if needed, e.g., for specific hyphenation, but usually not necessary
+# --- End of Metadata ---
+...
