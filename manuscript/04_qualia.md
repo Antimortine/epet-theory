@@ -10,7 +10,7 @@ EPET offers a scientific-philosophical explanation of phenomenal experience's st
 
 EPET's hypothesis on qualia:
 
-**Qualia are intrinsic characteristics (properties, aspects, dimensions) of the dynamic, integrated, embodied predictive modeling process itself, when this process reaches sufficient complexity, stability, global availability, and system-evaluated relevance.**
+**EPET's core hypothesis is that qualia are constituted by, or are identical to, specific intrinsic characteristics (properties, aspects, dimensions) of the dynamic, integrated, embodied predictive modeling process itself, when this process reaches sufficient complexity, stability, global availability, and system-evaluated relevance.**
 
 Qualia are not separate entities or non-physical additions. They are what this specific emergent process is like. This unique complex dynamic organization is the basis for emergent high-level properties like conscious experience.
 
@@ -23,13 +23,13 @@ Key aspects:
 
 ## 4.2. Specifying the "Properties of the Process"
 
-To avoid mere redescription, "properties of the process" constituting qualia are specified:
+To avoid the charge of mere redescription, EPET specifies the "properties of the process" that are hypothesized to constitute qualia:"
 
 1.  **Multidimensional State Space:** Predictive modeling is a trajectory within the system's complex, multidimensional neural state space [@churchlandNeurophilosophyUnifiedScience1989].
 
 2.  **Dimensions and Phenomenal Characteristics:** Aspects of experience correspond to characteristics of this process/trajectory:
 
--  **Specificity/Quality:** Realized as the **specific pattern/region** in state space occupied when modeling a particular interaction type. "Red" occupies a different region than "blue." Patterns form via learning, reflecting interaction statistics. Realizes **Saññā-khandha** (recognition) [@bodhiComprehensiveManualAbhidhamma2000].
+-  **Specificity/Quality:** **Constituted by (or identical to)** the specific pattern/region in state space occupied when modeling a particular interaction type. "Red" occupies a different region than "blue." Patterns form via learning, reflecting interaction statistics. Realizes **Saññā-khandha** (recognition) [@bodhiComprehensiveManualAbhidhamma2000].
 
 -  **Intensity/Clarity:** Constituted by **dynamic characteristics**: **stability**, **signal strength** (firing rate/synchronization), and assigned **precision** [@hohwyPredictiveMind2013]. A more stable, strong, precise process constitutes a more intense/clear quale.
 
@@ -53,38 +53,65 @@ Experience's subjectivity arises not from a separate observer, but the **modelin
 The "first-person perspective" is this active, embodied, modeling system's perspective [@metzingerBeingNoOne2004; @hohwyPredictiveMind2013].
 
 
-## 4.4. Strategy for Addressing the "Hard Problem"
 
-EPET's strategy:
+##  4.4. Strategy for Addressing the “Hard Problem”
 
-1.  **Reframing the Question:** Instead of "Why P gives rise to Q?", ask: "**What specific properties of emergent process P (integrated predictive modeling) realize or constitute phenomenal characteristics Q?**" This shifts from metaphysical generation to scientific-philosophical realization within emergentist physicalism.
+The "hard problem" of consciousness [@chalmersFacingProblemConsciousness1995] – the question of why and how physical processes give rise to subjective experience or qualia – remains a central challenge for any physicalist theory. EPET confronts this challenge not by claiming to definitively "solve" the mystery in a way that would satisfy all philosophical intuitions, but by offering a coherent and scientifically grounded framework for understanding how phenomenal characteristics are realized within an emergentist physicalist ontology. This involves addressing not only the hard problem itself but also the "meta-problem of consciousness" – the problem of explaining why we think consciousness poses such a hard problem [@chalmers2020meta]. EPET's strategy involves several key components:
 
-2.  **Mechanistic Explanation:** EPET provides a **mechanistic explanation** (Section 4.2) linking process aspects (predictions, errors, precision, interoception, integration, self-modeling) to phenomenal aspects (specificity, intensity, valence, subjectivity, etc.).
+### 4.4.1. Reframing the Question: From Generation to Realization
 
-3.  **The “Nothing Extra” Argument and Constitutive Explanation:** EPET approaches the hard problem by offering a **constitutive explanation** of qualia, rather than seeking a causal law bridging fundamentally different categories. A constitutive explanation, in this context, posits that the phenomenal properties (Q) are not *caused by* or *emerging from* the physical process (P) as something separate or additional, but rather *are identical to* certain intrinsic, high-level properties *of* the process P itself, understood from the system's intrinsic perspective. The core strategy, therefore, follows this explanatory schema:
+EPET begins by reframing the core question. Instead of asking, “Why does physical process P give rise to or generate phenomenal characteristic Q (as something separate or additional)?”, EPET asks: **“What specific organizational and dynamic properties of emergent physical process P (identified here as integrated, embodied predictive modeling) realize or constitute phenomenal characteristics Q?”** This shift moves the focus from an often-mysterious notion of "generation" to a scientific-philosophical investigation of **realization** or **constitution** within a unified physicalist framework. This reframing also helps in approaching the meta-problem, as understanding the realization of experience can inform why we develop certain intuitions about its nature.
 
-1. EPET identifies consciousness with a specific, complex **emergent process**: integrated predictive modeling in an embodied system.
+### 4.4.2. The Constitutive Explanation of Qualia: An Emergentist-Physicalist Identity
 
-2. This process possesses distinct **structural, functional, and dynamic characteristics** (hierarchical predictive architecture, error minimization dynamics, global integration and availability, embodied relevance assessment, self-modeling loops, specific patterns of neural activity, etc.), as detailed in Sections 3 and 4.2.
+The cornerstone of EPET’s approach to the hard problem is a **constitutive explanation of qualia**. EPET proposes that qualia **are identical to, or are constituted by, specific intrinsic, high-level organizational and dynamic properties of this very process** when it reaches sufficient complexity, stability, global availability, and system-evaluated relevance (as detailed in Sections 4.1 and 4.2).
 
-3. EPET's central claim is that these specific characteristics of the process, when considered from the system's intrinsic perspective (i.e., how the system models itself and its interactions), **literally constitute qualia from the first-person perspective**. The "what-it's-likeness" is the particular way this organized dynamic process unfolds.
+-   **Identity, Not Causation:** This is not a claim that process P causes qualia Q as a separate effect. Instead, it is an identity claim: to be this specific kind of complex, integrated, embodied predictive process is to be or to instantiate the phenomenal experience Q. The subjective "what-it's-likeness" is the intrinsic aspect of this particular kind of organized dynamic process unfolding. This aligns with contemporary approaches viewing qualia as intrinsic features of certain neural computations, such as the proposal of "qualia as query act" where the brain's active interrogation of sensory inputs within a predictive coding framework constitutes the qualitative feel [@harrisQualiaQueryAct2025], or the view of conscious experience as the brain's best predictive hypothesis made explicit at a global level [@gongComputationalExplanationConsciousness2024].
+    
+-   **Epistemic Perspectives:** The apparent gap between an objective, third-person description of neural activity and a subjective, first-person experience can be understood as arising from two distinct **epistemic perspectives** on the same underlying emergent phenomenon.
+    
 
-4. Therefore, the intuition of an "explanatory gap" [@levineMaterialismQualiaExplanatory1983] or the demand to explain why physical process P generates a supposedly non-physical quale Q stems from a **category mistake** or an implicit dualistic assumption that expects qualia to be something of a different kind than, or an entity added to, the realizing physical process [@dennettQuiningQualia1988].
+### 4.4.3. The “Nothing Extra” Argument within Emergentist Physicalism
 
-5. If we adopt consistent **emergentist physicalism**, viewing consciousness as a real, higher-level process, there is no principled reason to expect anything metaphysically "extra." Just as biology no longer demands an extra 'essence of life' (élan vital) beyond complex biochemical processes, consciousness science need not demand an extra non-physical 'phenomenal essence' beyond the specific, complex dynamics realizing the functional and relational properties of experience.
+EPET’s constitutive view is grounded in a consistent **emergentist physicalism** and a "nothing extra" argument:
 
-6. Thus, EPET distances itself from both **illusionism** [@dennettConsciousnessExplained1993; @frankishIllusionismTheoryConsciousness2016], as it affirms the reality of phenomenal experience, and from **strong reductionism**, as it insists on the explanatory indispensability of the emergent process level. It exemplifies weak emergentism where qualia are real, causally relevant properties constituted by, yet not reducible without remainder to, lower-level physics. **EPET does not eliminate qualia; it identifies them with specific, real properties of the emergent predictive process itself.** The explanatory gap dissolves once qualia are recognized as the intrinsic, first-person properties of a complex, embodied predictive process. The explanation focuses on how physical systems can realize phenomenology through complex organization.
+-   **Weak Emergence:** EPET views consciousness as a case of **"standard ('weak') emergence"**  [@feinberg2020phenomenal]. This means phenomenal properties, while novel at the system level, do not require new fundamental forces or substances. They are wholly dependent on, and realized by, the organization and dynamics of their physical constituents. As argued by Feinberg & Mallatt (2020) [@feinberg2020phenomenal], this form of emergence does not entail a "scientific explanatory gap," only an "experiential or epistemic gap" which is "ontologically untroubling." The unique qualities of subjective experience are thus attributable to the **unique and highly specific organization and dynamics** of the predictive modeling process. This aligns with rigorous frameworks of metaphysical emergence [@wilson2021metaphysical], which detail how higher-level properties can be novel and possess distinct causal profiles (e.g., by having a proper subset of the causal powers of their physical base) while remaining fully physically grounded.
+    
+-   **The "Nothing Extra" Principle:** Just as biology no longer seeks an extra ‘élan vital’ to explain life, consciousness science, within an emergentist physicalist framework, need not demand an extra non-physical ‘phenomenal essence’ beyond the specific, complex dynamics realizing the functional and relational properties of experience.
+    
+-   **Qualia as Real, Emergent Properties:** Critically, EPET affirms the **reality of phenomenal experience and qualia**. They are not illusions to be explained away (contra strong illusionism, e.g., [@carruthersStopCaringConsciousness2020]). Instead, EPET identifies qualia with specific, real, causally relevant properties of the emergent predictive process itself.
+    
 
+### 4.4.4. Deconstructing the "Explanatory Gap": Category Mistakes and Phenomenal Concepts
 
-## 4.5. Avoiding Panpsychism and Dualism
+The persistent intuition of an "explanatory gap" [@levineMaterialismQualiaExplanatory1983], EPET suggests, stems largely from conceptual confusions or implicit non-physicalist assumptions, central to the meta-problem of consciousness [@chalmers2020meta].
 
-This explanation avoids undesirable metaphysics:
+-   **Category Mistake:** Expecting a causal explanation for a constitutive identity is a category mistake.
+    
+-   **Implicit Dualism:** The intuition of a gap is often fueled by an implicit assumption that qualia must be something "over and above" the physical process.
+    
+-   **The Role of Phenomenal Concepts:** The **Phenomenal Concept Strategy (PCS)** suggests that our special "phenomenal concepts" for experiences are cognitively distinct from our third-person concepts of brain states, creating an epistemic gap even if no ontological gap exists ([@balog2020disillusioned]; [@Diaz-Leon2020-DIATMO-2]). This helps explain the "problem intuitions" of the meta-problem [@chalmers2020meta] without resorting to dualism.
+    
 
--  **Against Panpsychism:** Qualitative properties arise only with **highly complex organization/dynamics**, not inherent to matter [@strawsonRealisticMonismwhyPhysicalism2006; @goffConsciousnessFundamentalReality2017]. Aligns with **Paṭiccasamuppāda**.
+By proposing a constitutive explanation and highlighting these epistemic factors, EPET aims to dissolve the "hard problem" by showing it is largely a product of these problem intuitions.
 
--  **Against Dualism:** Qualia are **properties of the physical (emergent) process**, fully determined by it, inseparable.
+**4.4.5. Avoiding Panpsychism and Dualism**
 
+This explanatory strategy allows EPET to avoid less parsimonious or scientifically tractable metaphysical positions:
 
-## 4.6. Section Conclusion
+-   **Against Panpsychism:** Qualitative properties, in EPET, arise only with highly complex organization and dynamics, not inherent to fundamental matter ([@strawsonRealisticMonismwhyPhysicalism2006]; [@goffConsciousnessFundamentalReality2017]). This aligns with critiques of panpsychism ([@gaetanolicataPanpsychismEmergentismMindbody2024]; [@yurchenko2024panpsychism]).
+    
+-   **Against Dualism:** Qualia are identified as properties of the physical (emergent) process.
+    
+
+### 4.4.6. The Scope and Limits of EPET's Explanation
+
+EPET aims to provide a **coherent, plausible, and heuristically valuable framework** for understanding how consciousness is realized in physical systems, explaining its structure, function, and characteristics by linking them to the integrated predictive modeling process. This approach offers a naturalistic explanation for many "problem intuitions" of the meta-problem [@chalmers2020meta].
+
+However, EPET does not claim to eliminate the fundamental **intuitive wonder** that any physical organization should be accompanied by subjective experience. The question "why is there subjective experience at all?" may touch upon levels of explanation beyond current scientific or philosophical frameworks.
+
+EPET's contribution lies in demonstrating that, given subjective experience as a natural phenomenon, its realization can be understood naturalistically. The theory shows how physical systems can realize phenomenology through complex organization, making the "hard problem" more tractable, even if a residual sense of mystery persists.
+
+## 4.5. Section Conclusion  
 
 EPET offers a naturalistic, non-reductive explanation of subjectivity/qualia as intrinsic properties of the emergent process of integrated predictive modeling. It aims to address the "hard problem" by explaining qualia's characteristics within a scientific worldview compatible with dependent origination, without denying phenomenal reality.
