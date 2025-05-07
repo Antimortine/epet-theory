@@ -1,6 +1,6 @@
 # 2. The Metaphysical Foundation of EPET: Emergentist Physicalism and Dependent Origination
 
-Any consciousness theory relies on metaphysical assumptions. EPET articulates its position for scientific plausibility, conceptual coherence, and compatibility with Buddhist dependent origination.
+Any consciousness theory relies on metaphysical assumptions. EPET articulates its position for scientific plausibility, conceptual coherence, and compatibility with the Buddhist principle of dependent origination.
 
 ## 2.1. Adopting Physicalism
 
@@ -27,17 +27,16 @@ Within physicalism, EPET rejects **strong reductionism** [@brigandtReductionismB
 
 EPET's metaphysics acknowledges consciousness's reality and causal role without dualism, maintaining compatibility with the physical worldview.
 
-## 2.3. Compatibility with Paṭiccasamuppāda (Dependent Origination)
+## 2.3. Emergentism and the Buddhist Principle of Conditionality
 
-Emergentist physicalism corresponds structurally with the Buddhist principle of **Paṭiccasamuppāda (Dependent Origination)** [@bodhiTranscendentalDependentArising1980; @harveyIntroductionBuddhismTeachings2012]. This principle states phenomena lack independent existence, arising interdependently based on conditions. Applied to consciousness (Viññāṇa), it means it arises conditionally, not as a primary reality.
+EPET's emergentist physicalism resonates conceptually with core aspects of **the Buddhist principle of conditionality, often referred to as dependent origination** [@bodhiTranscendentalDependentArising1980; @harveyIntroductionBuddhismTeachings2012]. This fundamental Buddhist principle posits that phenomena lack inherent, independent existence and arise interdependently based on a web of conditions. When applied to consciousness, this means it is understood as arising conditionally, not as a static or primary, uncaused reality.
 
-EPET's emergentism harmonizes with this:
+EPET's emergentist framework offers conceptual parallels to this perspective:
 
-1.  **Conditionality of Consciousness:** Consciousness arises only under **complex specific conditions** (functioning brain/body, interaction, specific neural/information processing patterns). Without these conditions, consciousness disappears.
+1.  **Conditionality of Consciousness:** In EPET, consciousness is understood to arise only under **complex specific conditions** (a functioning brain and body, active interaction with an environment, and specific neural and information-processing patterns). Without these requisite conditions, consciousness, as an emergent process, would not manifest. This aligns with the emphasis on conditionality found in the Buddhist principle.
     
-2.  **Absence of a Substantial Basis:** Like Paṭiccasamuppāda denies Ātman, EPET's emergentism denies mental substance and panpsychism. Consciousness is a **pattern of organization/activity**, not a thing.
+2.  **Absence of a Substantial Basis:** The Buddhist principle of dependent origination, particularly in its denial of a permanent, independent self (traditionally termed *Ātman* in related Indian philosophies, a notion critiqued by the Buddhist concept of *Anattā*), finds a parallel in EPET's emergentism. EPET, by its physicalist and emergentist nature, denies any separate mental substance or the panpsychist notion of universally distributed fundamental consciousness. Instead, consciousness is viewed as a **pattern of organization and activity** within a physical system, not an independent "thing" or essence.
     
-3.  **Interdependence:**  Paṭiccasamuppāda emphasizes interdependence (consciousness & mental-physical components). Emergentism implies complex, **bidirectional interactions** between levels (neurons <-> networks <-> cognition <-> behavior) and system-environment.
-    
+3.  **Interdependence:** The Buddhist emphasis on the **interdependence** of all phenomena, including consciousness and its mental and physical components, resonates with the scientific view of emergent systems. Emergentism, as adopted by EPET, implies complex, **bidirectional interactions** between different levels of organization—from neuronal activity to network dynamics, to cognitive processes, and ultimately to behavior—as well as continuous interaction between the system and its environment.
 
-Thus, non-reductive emergentist physicalism ensures EPET's scientific plausibility and integrates a conceptual structure resonant with dependent origination. This forms the foundation for EPET's specific theses.
+Thus, EPET's non-reductive emergentist physicalism not only ensures its scientific plausibility but also integrates a conceptual structure that is strikingly harmonious with the philosophical implications of the Buddhist principle of dependent origination. This metaphysical grounding further supports EPET's specific theses on the nature of conscious experience.

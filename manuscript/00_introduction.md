@@ -40,7 +40,7 @@ EPET development followed three criteria:
 
 1.  **Scientific Plausibility:** Compatibility with established scientific data and plausible models.
     
-2.  **Consistency with Buddhist Core:** Compatibility with key Buddhist insights like Anattā (no-self), Anicca (impermanence), Paṭiccasamuppāda (dependent origination), and experience analysis (Pañca Khandhā) [@rahulaWhatBuddhaTaught2007; @harveyIntroductionBuddhismTeachings2012; @gethinFoundationsBuddhism1998]. Chosen not for religious reasons, but for the value of this tradition's investigation of mind, offering heuristic tools and insights compatible with science.
+2.  **Consistency with Buddhist Core:** Compatibility with key Buddhist insights, such as the principle of **no-self (Anattā)**, the understanding of reality as a dynamic **process (encompassing impermanence and dependent origination)**, and the tradition's rich **phenomenological analysis of experience** (e.g., its deconstruction into constituent aggregates) [@rahulaWhatBuddhaTaught2007; @harveyIntroductionBuddhismTeachings2012; @gethinFoundationsBuddhism1998]. Chosen not for religious reasons, but for the value of this tradition's investigation of mind, offering heuristic tools and insights compatible with science.
     
 3.  **Form and Style:** Using contemporary philosophy of mind terminology and argumentation for dialogue.
     

@@ -1,4 +1,3 @@
-
 # 4. Explaining Subjectivity and Qualia in EPET
 
 A central task for any consciousness theory is explaining **qualia**, the subjective quality of experience [@tyeQualia2021]. How do brain processes generate the "what is it like?" [@nagelWhatItLikeBat1980]? This "hard problem" [@chalmersFacingProblemConsciousness1995] challenges integration of consciousness into science.
@@ -29,11 +28,11 @@ To avoid the charge of mere redescription, EPET specifies the "properties of the
 
 2.  **Dimensions and Phenomenal Characteristics:** Aspects of experience correspond to characteristics of this process/trajectory:
 
--  **Specificity/Quality:** **Constituted by (or identical to)** the specific pattern/region in state space occupied when modeling a particular interaction type. "Red" occupies a different region than "blue." Patterns form via learning, reflecting interaction statistics. Realizes **Saññā-khandha** (recognition) [@bodhiComprehensiveManualAbhidhamma2000].
+-  **Specificity/Quality:** **Constituted by (or identical to)** the specific pattern/region in state space occupied when modeling a particular interaction type. "Red" occupies a different region than "blue." Patterns form via learning, reflecting interaction statistics.
 
 -  **Intensity/Clarity:** Constituted by **dynamic characteristics**: **stability**, **signal strength** (firing rate/synchronization), and assigned **precision** [@hohwyPredictiveMind2013]. A more stable, strong, precise process constitutes a more intense/clear quale.
 
--  **Affective Valence:** Constituted by the system's ongoing evaluation of its **interoceptive prediction errors** relative to its homeostatic and allostatic goals [@sethInteroceptiveInferenceEmotion2013; @barrettTheoryConstructedEmotion2017; @damasioDescartesError2006; @craigHowYouFeel2009]. Valence, in EPET, *is* the phenomenal character of this **relevance assessment** process. Successfully minimizing predicted interoceptive errors (signaling progress towards homeostasis/goals) is intrinsically felt as **positive valence (Vedanā sukha)**, while failing to minimize them (signaling potential threats or deviations) is intrinsically felt as **negative valence (Vedanā dukkha)**. Valence is thus not merely correlated with, but *is the subjective manifestation of*, the system modeling the relevance of its states for survival and well-being (realizing **Vedanā-khandha** [@bodhiComprehensiveManualAbhidhamma2000]).
+-  **Affective Valence:** Constituted by the system's ongoing evaluation of its **interoceptive prediction errors** relative to its homeostatic and allostatic goals [@sethInteroceptiveInferenceEmotion2013; @barrettTheoryConstructedEmotion2017; @damasioDescartesError2006; @craigHowYouFeel2009]. Valence, in EPET, *is* the phenomenal character of this **relevance assessment** process. Successfully minimizing predicted interoceptive errors (signaling progress towards homeostasis/goals) is intrinsically felt as **positive valence**, while failing to minimize them (signaling potential threats or deviations) is intrinsically felt as **negative valence**. Valence is thus not merely correlated with, but *is the subjective manifestation of*, the system modeling the relevance of its states for survival and well-being.
 
 3.  **Analogy with Emergent Macro-Properties:** Like "temperature" arises from molecular dynamics or "fluidity" from H₂O interactions, qualia ("redness") are **real macroscopic properties** arising from neural modeling **organization and dynamics** [@kimMakingSenseEmergence1999; @mitchellComplexityGuidedTour2009]. No extra "essence" is needed beyond the process.
 

@@ -14,7 +14,8 @@ Anticipating and responding to potential criticism is crucial for evaluating any
 ## 7.2. Objection 2: EPET as Compilation (Lack of Novelty)
 
 *   **Objection:** EPET heavily relies on existing theories (PP [@fristonFreeenergyPrincipleUnified2010; @clarkWhateverNextPredictive2013], GWT [@baarsCognitiveTheoryConsciousness1993; @dehaeneConsciousnessBrainDeciphering2014]). Is it just their sum?
-*   **EPET's Response:** EPET acknowledges using PP/GWT as core *mechanisms*. Its novelty lies in: 1) Their **Integration** into a coherent structure (PP for content/quality, GWT for access/integration). 2) The specific **Philosophical Interpretation** within emergentism (qualia as process properties, self as self-model). 3) The **Synthesis with Buddhist concepts** (*Anattā*, *Anicca*, *Paṭiccasamuppāda*) providing unique direction and constraints. EPET is primarily a **philosophical theory** leveraging scientific models.
+*   **EPET's Response:** EPET acknowledges using PP/GWT as core *mechanisms*. Its novelty lies in: 1) Their **Integration** into a coherent structure (PP for content/quality, GWT for access/integration). 2) The specific **Philosophical Interpretation** within emergentism (qualia as process properties, self as self-model). 3) The **synthesis with key Buddhist philosophical concepts**—such as Anattā (no-self), Anicca (impermanence), and Paṭiccasamuppāda (dependent origination)—which provide unique direction and conceptual constraints for the theory.
+ EPET is primarily a **philosophical theory** leveraging scientific models.
 
 ## 7.3. Objection 3: Vagueness of "Emergence"
 
@@ -34,7 +35,8 @@ Anticipating and responding to potential criticism is crucial for evaluating any
 ## 7.6. Objection 6: Incorrectness or Irrelevance of Using Buddhism
 
 *   **Objection:** Integrating Buddhism might seem superficial, distorting, or inappropriate.
-*   **EPET's Response:** EPET engages with Buddhism's **philosophical core** non-religiously [@rahulaWhatBuddhaTaught2007; @harveyIntroductionBuddhismTeachings2012]. Its value lies in providing an **alternative conceptual perspective**, **phenomenological landmarks** (e.g., *Vedanā*'s role), and **constraints** (e.g., explaining experience without a substantial "self"), enriching the theory. The argumentation remains scientific/philosophical; Buddhism serves to demonstrate **idea convergence** and fulfill an initial design criterion.
+*   **EPET's Response:** EPET acknowledges using PP/GWT as core mechanisms. Its novelty lies in: 1) Their **Integration** into a coherent structure (PP for content/quality, GWT for access/integration). 2) The specific **Philosophical Interpretation** within emergentism (qualia as process properties, self as self-model). 3) The **synthesis with key Buddhist philosophical concepts**—such as Anattā (no-self), Anicca (impermanence), and Paṭiccasamuppāda (dependent origination)—which provide unique direction and conceptual constraints for the theory. EPET is primarily a **philosophical theory** leveraging scientific models.
+
 
 ## 7.7. Objection 7: Unfalsifiability of the Theory
 
