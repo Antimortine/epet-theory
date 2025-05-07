@@ -21,7 +21,7 @@ The primary strength and contribution of EPET lies in its **systematic philosoph
 
 1.  **A Coherent and Philosophically Grounded Framework:** EPET offers a **coherent theoretical framework** for understanding consciousness, explicitly grounded in **non-reductive (weak) emergentist physicalism**. This allows it to navigate a path that avoids the metaphysical extremes of substance dualism, panpsychism, or strong eliminative illusionism, while still affirming the reality of subjective experience.
     
-2.  **Principled Integration of Core Mechanisms:** The theory provides a **principled integration** of leading scientific models – Predictive Processing (PP) for content and quality generation, Global Workspace Theory (GWT) for conscious access and integration, and Embodied Cognition for grounding experience in bodily processes. The novelty here is not just the combination, but the **specific philosophical interpretation** of how these mechanisms collectively realize conscious experience.
+2.  **Principled Integration of Core Mechanisms:** The theory provides a **principled integration** of leading scientific models – Predictive Processing (PP) for content and quality generation, Global Workspace Theory (GWT) for conscious access and integration, and Embodied Cognition for grounding experience in bodily processes. The novelty here is not just the combination, but the **specific philosophical interpretation** of how these mechanisms collectively realize conscious experience, **allowing EPET to address fundamental questions about the nature of subjectivity and selfhood that may be less central to other integrative frameworks focused primarily on cognitive function or computational architecture.**
     
 3.  **A Constitutive Explanation of Qualia:** EPET proposes a **specific, constitutive explanation for qualia** (Section 4), viewing them as intrinsic, high-level properties of the integrated, embodied predictive modeling process itself. This offers a naturalistic approach to the 'hard problem' by reframing it as a question of realization within an emergentist ontology.
     
@@ -32,6 +32,7 @@ The primary strength and contribution of EPET lies in its **systematic philosoph
 6.  **Conceptual Enrichment from Buddhist Philosophy:** The judicious incorporation of Buddhist philosophical concepts (such as Anattā, and a process-oriented understanding of phenomena as impermanent and dependently arisen) serves not only as an illustrative parallel but as a source of **conceptual constraints and heuristic guidance**, enriching the theory's philosophical depth and directing its development towards a non-substantialist, process-based view of mind.
 
 In essence, EPET aims to provide not just a collection of ideas, but a systematically articulated **philosophical interpretation** of how consciousness, in its various facets, can emerge from and be realized by complex physical systems.
+
 
 ## 8.2. Acknowledging Current Limitations and Identifying Open Questions
 
