@@ -1,63 +1,23 @@
 # 3. Central Theses of the Emergent Predictive Experience Theory
 
-
-Based on the discussed scientific, philosophical, and Buddhist foundations and the adopted metaphysical position of emergentist physicalism, EPET formulates the following central theses regarding the nature of consciousness, its realization mechanisms, and the explanation of the sense of "self."
-
+Grounded in the scientific, philosophical, and Buddhist foundations previously discussed (Sections 1 & 2), particularly its emergentist physicalism, EPET formulates the following central theses regarding the nature of consciousness, its realization mechanisms, and the explanation of the "self."
 
 ## 3.1. Thesis 1: Consciousness as an Emergent, Dynamic, Embodied, Integrated Predictive Process
 
-  
+EPET defines consciousness not as a fundamental substance but as a **real, emergent process** arising from the brain-body-environment system's specific organization and dynamics [@kimMakingSenseEmergence1999; @oconnorEmergentProperties2021]. This process is inherently **dynamic, impermanent, and conditionally arising**, echoing Buddhist ontological principles (Anicca, Paṭiccasamuppāda; Sec 1.3) [@harveyIntroductionBuddhismTeachings2012; @bodhiTranscendentalDependentArising1980]. It is inextricably linked to the **living body** and its **active environmental interaction**, constituted by neural processes, continuous bodily signals (**interoception, proprioception**), and **sensorimotor loops** (Sec 1.1) [@varelafranciscoEmbodiedMindCognitive1991; @craigHowYouFeel2002; @noeActionPerception2004].
 
-**1.1. Emergence and Processuality:** Consciousness is not fundamental nor a substance, but an **emergent process** [@kimMakingSenseEmergence1999; @oconnorEmergentProperties2021] arising from the specific organization and dynamics of the brain-body-environment system. Like all conditioned phenomena, it is inherently **dynamic and impermanent** (a concept central to the Buddhist understanding of Anicca or impermanence [@harveyIntroductionBuddhismTeachings2012]), a continuous flow of arising and ceasing states, entirely **dependent on conditions** (reflecting the principle of Paṭiccasamuppāda or dependent origination [@bodhiTranscendentalDependentArising1980]).
+The primary mechanism generating conscious content and quality is **active, hierarchical Predictive Processing (PP)**, which minimizes prediction error to build an action-guiding world/self-model [@fristonFreeenergyPrincipleUnified2010; @clarkWhateverNextPredictive2013; @hohwyPredictiveMind2013]. EPET postulates that conscious **content** is the **current, active, coherent predictive model** [@sethBeingYouNew2021]. Prediction errors, weighted by **precision** (attention-modulated salience), drive model updates and influence awareness [@feldmanAttentionUncertaintyFreeenergy2010].
 
-  
+For this PP-generated information to become consciously accessed, integrated, and stabilized, EPET incorporates **Global Workspace Theory (GWT)** [@baarsCognitiveTheoryConsciousness1993]. Selected content (stable predictions or high-precision errors) is globally broadcast. The precise neurodynamic mechanisms of the PP↔GWT interface, such as "predictive routing" involving specific oscillatory bands (e.g., alpha/beta for top-down predictions, gamma for bottom-up errors) and large-scale synchronization for "ignition", are actively investigated and detailed in works by [@bastosLayerRhythmSpecificity2020; @xiongPropofolmediatedLossConsciousness2024; @perez-gonzalezAcetylcholineModulatesPrecision2024; @mashourConsciousProcessingGlobal2020; @dehaeneConsciousnessBrainDeciphering2014; @whytePredictiveGlobalNeuronal2021] (see Sec 1.1 for conceptual background). Full conscious experience in EPET thus emerges from the interplay of PP (content/quality generation) and GWT (integration/access/stabilization). The precise details of this interface remain an active research area, constituting a key direction for future refinement of EPET and related models.
 
-**1.2. Embodiment:** Consciousness is inextricably linked to the **living body** and its **active interaction** with the environment [@varelafranciscoEmbodiedMindCognitive1991; @clarkBeingTherePutting1998]. Conscious experience is constituted not only by neural processes but also by continuous bodily signals (**interoception** [@craigHowYouFeel2002], **proprioception**) and **sensorimotor loops** [@noeActionPerception2004], grounding experience in the organism's physical being and its engagement with the world.
+This complex emergent process serves key adaptive **functions** like information integration, coherent modeling, and flexible behavior [@baarsCognitiveTheoryConsciousness1993; @dehaeneCognitiveNeuroscienceConsciousness2001].
 
-  
+## 3.2. Thesis 2: Integration, Unity, and a Non-Substantial "Self"
 
-**1.3. Predictive Modeling (PP) as the Core Mechanism:** The primary mechanism generating conscious content and quality is **active, hierarchical Predictive Processing (PP)** [@fristonFreeenergyPrincipleUnified2010; @clarkWhateverNextPredictive2013; @hohwyPredictiveMind2013]. The brain-body constantly **generates multimodal predictions (hypotheses)** about the causes of its sensory signals at various abstraction levels. The core computational goal is **prediction error minimization** over time, effectively enabling the system to infer the hidden causes of its sensations and build an accurate, action-guiding world/self-model.
+The apparent **unity of conscious experience** is an emergent functional property of dynamic information integration (e.g., neural synchronization, recurrence) within the globally available PP-GWT model, requiring no central "self" [@singerNeuronalSynchronyVersatile1999; @lammeDistinctModesVision2000].
 
-  
-
-**1.4. Content of Consciousness = Content of the Active Predictive Model:** EPET postulates that conscious **content** at any moment is determined by the **current, active, coherent predictive model** – the system's best ongoing hypothesis about the state of the world and itself [@hohwyPredictiveMind2013; @sethBeingYouNew2021]. We consciously perceive the world as modeled by our brain, not raw sensory input.
-
-  
-
-**1.5. Role of Prediction Errors and Precision (Attention):**  **Prediction errors** drive model updates (learning) [@fristonFreeenergyPrincipleUnified2010]. The **precision** (estimated reliability or salience) assigned to prediction errors determines their influence; high-precision errors are more likely to update beliefs and enter conscious awareness. **Attention** is largely implemented via top-down **precision modulation**, amplifying relevant signals or dampening noise [@feldmanAttentionUncertaintyFreeenergy2010; @hohwyPredictiveMind2013, Ch. 3].
-
-  
-
-**1.6. Global Availability (GWT) for Integration and Access:** While PP generates potential content, Global Workspace Theory (GWT) [@baarsCognitiveTheoryConsciousness1993] explains how information becomes consciously accessed, integrated, and stabilized. Within the EPET framework, the content selected for this global broadcast is typically hypothesized to be either stable, high-level, integrated representations from the predictive model (reflecting the system's current 'best guess' about the relevant state of the world and self) or significant, high-precision prediction errors that signal a need for widespread processing to update the model and guide behavior. Recent theoretical and empirical work suggests that the PP↔GWT interface is implemented via specific neural dynamics, where precision-weighted signals compete for global access. Plausible mechanisms involve recurrent processing loops and large-scale neural synchronization enabling the "ignition" and broadcasting of selected information across distributed brain modules [@fristonFreeenergyPrincipleUnified2010; @dehaeneConsciousnessBrainDeciphering2014; @whytePredictiveGlobalNeuronal2021]. Specifically, models of "predictive routing" propose that top-down predictions, potentially carried by alpha/beta frequency oscillations originating from deeper cortical layers (including frontal and parietal areas), modulate and inhibit the processing of expected sensory inputs in lower-level areas. Conversely, unpredicted, salient prediction errors, associated with superficial layer activity and gamma-band oscillations, are hypothesized to propagate upwards to engage higher-order cortices and potentially achieve global broadcast [@bastosLayerRhythmSpecificity2020; @xiongPropofolmediatedLossConsciousness2024]. The thalamus likely plays a crucial gating role in coordinating these cortico-cortical interactions, while neuromodulatory systems (e.g., cholinergic, noradrenergic) are thought to regulate the precision of prediction errors, thereby influencing which signals win the competition for global access and conscious representation [@perez-gonzalezAcetylcholineModulatesPrecision2024; @mashourConsciousProcessingGlobal2020]. Predictive model content (or significant, high-precision errors) must reach a state of **global availability** via a distributed neural "workspace" (involving prefrontal-parietal networks [@dehaeneCerebralMechanismsWord2001; @dehaeneConsciousnessBrainDeciphering2014]), becoming accessible to diverse cognitive processes (memory, report, planning). This broadcast ensures **integration** of different experiential aspects and stabilizes the "conscious scene." Full conscious experience in EPET emerges from the interplay of PP (content/quality generation) and GWT (integration/access/stabilization). It is important to emphasize that while these specific neural mechanisms are supported by a growing body of research, the precise details of the PP-GWT interface, including the exact contribution of different oscillatory bands, thalamic nuclei, and neuromodulatory pathways, remain active areas of investigation and constitute a key direction for future refinement of EPET.
-
-  
-
-**1.7. Functions of Consciousness:** This complex emergent process serves key **adaptive functions**: integrating multisensory information, creating coherent world-models, enabling flexible goal-directed behavior, facilitating learning, supporting social cognition, metacognitive control, and future planning [@baarsCognitiveTheoryConsciousness1993; @dehaeneCognitiveNeuroscienceConsciousness2001].
-
-  
-
-## 3.2. Thesis 2: Integration and Unity of Experience without a Substantial "Self"
-
-  
-
-**2.1. Unity as Functional Integration:** The apparent **unity of conscious experience** (binding features, integrating modalities) requires no central "self." It is an **emergent functional property** achieved through **dynamic information integration** mechanisms (e.g., neural synchronization [@singerNeuronalSynchronyVersatile1999], recurrence [@lammeDistinctModesVision2000]) within the **globally available predictive model (PP+GWT)**, binding distributed processing into a coherent whole.
-
-  
-
-**2.2. Absence of a Substantial "Self" (Anattā):** Consistent with the Buddhist principle of **Anattā (no-self)**, which serves as a key conceptual constraint for the theory, EPET **rejects** the existence of an unchanging, independent, substantial self or soul as an actual entity [@rahulaWhatBuddhaTaught2007; @collinsSelflessPersonsImagery1982; @laukkonenManyNoneMeditation2021]. The adoption of Anattā directs EPET towards explaining the sense of self purely as a dynamic, constructed process.
-
-  
-
-**2.3. "Self" as a Construct of Self-Modeling:** The phenomenal **sense of "self"** (subjectivity, agency, ownership) is explained as an **emergent, dynamic construct**, resulting from **recursive self-modeling** within the PP architecture [@hohwyPredictiveMind2013, pp. 254-256; @sethBeingYouNew2021; @metzingerEgoTunnelScience2010]. The system continuously builds and updates predictive models of its own body (boundaries, states via interoception/proprioception), agency (authorship/consequences of actions), and mental states (metacognition), generating the feeling of being a unified, persisting self. This constructive activity, wherein the system generates and maintains its sense of being a persisting self, finds a conceptual parallel in the Buddhist notion of saṅkhāra (mental formations or volitional activities) as one of the aggregates (khandhas) that contributes to the fabrication of experience and the sense of 'I' [@bodhiComprehensiveManualAbhidhamma2000].
-
-  
-
-**2.4. Plasticity and Dissolution of the "Self":** As a dynamic construct (model), the self-sense is **plastic** and mutable, supported by neuropsychology and **ASCs**. Experiences of **"ego dissolution"** [@nourEgodissolutionPsychedelicsValidation2016; @carhart-harrisNeuralCorrelatesPsychedelic2012] are interpreted as disruptions in the stability, precision, or coherence of the predictive self-model, providing empirical support for its **constructed and non-substantial nature, as suggested by the Anattā principle**.
-
-  
+Consistent with the Buddhist principle of **Anattā (no-self)** (Sec 1.3), EPET rejects a substantial, unchanging self. The phenomenal **sense of "self"** (subjectivity, agency, ownership) is an **emergent, dynamic construct** from recursive **predictive self-modeling** of the body, agency, and mental states [@hohwyPredictiveMind2013; @sethBeingYouNew2021; @metzingerEgoTunnelScience2010]. This constructed self-sense (paralleling the Buddhist *saṅkhāra*) is plastic, as evidenced by phenomena like **"ego dissolution"** [@nourEgodissolutionPsychedelicsValidation2016].
 
 ## 3.3. Section Conclusion
-
-  
 
 EPET views consciousness as an emergent, embodied process realized via integrated predictive modeling (PP+GWT). Subjective experience and unity emerge from this process, while the sense of "self" arises as a dynamic self-modeling construct within it. These core theses ground EPET's explanation of qualia.

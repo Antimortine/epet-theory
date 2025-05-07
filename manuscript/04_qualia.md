@@ -5,52 +5,31 @@ A central task for any consciousness theory is explaining **qualia**, the subjec
 EPET offers a scientific-philosophical explanation of phenomenal experience's structure, characteristics, and realization within emergentist ontology. It reframes the hard problem, providing a **mechanistic explanation** of how **integrated predictive modeling in an embodied system** inherently **realizes** subjectivity and qualia.
 
 
-## 4.1. EPET's Core Hypothesis: Qualia as Properties of the Predictive Modeling Process
+## 4.1. EPET’s Core Hypothesis: Qualia as Properties of the Predictive Modeling Process
 
-EPET's hypothesis on qualia:
+EPET’s core hypothesis is that **qualia are constituted by, or are identical to, specific intrinsic characteristics (properties, aspects, dimensions) of the dynamic, integrated, embodied predictive modeling process itself, when this process reaches sufficient complexity, stability, global availability, and system-evaluated relevance.** Qualia are not separate non-physical additions but are what this specific emergent process is like from the system's perspective.
 
-**EPET's core hypothesis is that qualia are constituted by, or are identical to, specific intrinsic characteristics (properties, aspects, dimensions) of the dynamic, integrated, embodied predictive modeling process itself, when this process reaches sufficient complexity, stability, global availability, and system-evaluated relevance.**
-
-Qualia are not separate entities or non-physical additions. They are what this specific emergent process is like. This unique complex dynamic organization is the basis for emergent high-level properties like conscious experience.
-
-Key aspects:
-
-1.  **"What-it's-likeness" as Modeling:** A quale's specific quality (e.g., "redness") is the **particular way the predictive system models an interaction type and its significance** (for survival, goals) within its global, embodied model [@hohwyPredictiveMind2013; @clarkWhateverNextPredictive2013; @sethBeingYouNew2021]. It's the system's active modeling of an interaction type *and its significance* for the organism's goals and survival, performed within its global, embodied predictive model. Qualia, particularly affective valence, are how the system intrinsically represents the **relevance** of internal and external states from its first-person, embodied modeling perspective.
-
-2.  **Dependence on Process Organization:** Qualitative properties arise only with **specific organization and dynamics**: hierarchical structure (PP), recurrence [@lammeDistinctModesVision2000], integration (GWT) [@dehaeneConsciousnessBrainDeciphering2014], embodiment [@varelafranciscoEmbodiedMindCognitive1991], active inference [@fristonFreeenergyPrincipleUnified2010], and **relevance evaluation** mechanisms [@damasioDescartesError2006; @barrettTheoryConstructedEmotion2017].
+Key aspects include:
+1.  **“What-it’s-likeness” as Intrinsic to Modeling:** A quale’s specific quality (e.g., “redness”) *is* the particular way the predictive system models an interaction type and its **significance** (for survival, goals) within its global, embodied model [@hohwyPredictiveMind2013; @clarkWhateverNextPredictive2013; @sethBeingYouNew2021]. Affective valence, for instance, is how the system intrinsically represents the relevance of internal/external states.
+2.  **Dependence on Specific Process Organization:** These qualitative properties arise only given a specific organization and dynamics, including: hierarchical PP, recurrence [@lammeDistinctModesVision2000], GWT-mediated integration [@dehaeneConsciousnessBrainDeciphering2014], embodiment [@varelafranciscoEmbodiedMindCognitive1991], active inference [@fristonFreeenergyPrincipleUnified2010], and relevance evaluation mechanisms [@damasioDescartesError2006; @barrettTheoryConstructedEmotion2017].
 
 
-## 4.2. Specifying the "Properties of the Process"
+## 4.2. Specifying the “Properties of the Process”
 
-To avoid the charge of mere redescription, EPET specifies the "properties of the process" that are hypothesized to constitute qualia:"
+To avoid mere redescription, EPET specifies the "properties of the process" hypothesized to constitute qualia:
 
-1.  **Multidimensional State Space:** Predictive modeling is a trajectory within the system's complex, multidimensional neural state space [@churchlandNeurophilosophyUnifiedScience1989].
-
-2.  **Dimensions and Phenomenal Characteristics:** Aspects of experience correspond to characteristics of this process/trajectory:
-
--  **Specificity/Quality:** **Constituted by (or identical to)** the specific pattern/region in state space occupied when modeling a particular interaction type. "Red" occupies a different region than "blue." Patterns form via learning, reflecting interaction statistics.
-
--  **Intensity/Clarity:** Constituted by **dynamic characteristics**: **stability**, **signal strength** (firing rate/synchronization), and assigned **precision** [@hohwyPredictiveMind2013]. A more stable, strong, precise process constitutes a more intense/clear quale.
-
--  **Affective Valence:** Constituted by the system's ongoing evaluation of its **interoceptive prediction errors** relative to its homeostatic and allostatic goals [@sethInteroceptiveInferenceEmotion2013; @barrettTheoryConstructedEmotion2017; @damasioDescartesError2006; @craigHowYouFeel2009]. Valence, in EPET, *is* the phenomenal character of this **relevance assessment** process. Successfully minimizing predicted interoceptive errors (signaling progress towards homeostasis/goals) is intrinsically felt as **positive valence**, while failing to minimize them (signaling potential threats or deviations) is intrinsically felt as **negative valence**. Valence is thus not merely correlated with, but *is the subjective manifestation of*, the system modeling the relevance of its states for survival and well-being.
-
-3.  **Analogy with Emergent Macro-Properties:** Like "temperature" arises from molecular dynamics or "fluidity" from H₂O interactions, qualia ("redness") are **real macroscopic properties** arising from neural modeling **organization and dynamics** [@kimMakingSenseEmergence1999; @mitchellComplexityGuidedTour2009]. No extra "essence" is needed beyond the process.
-
-4.  **Why This Specific Process?:** Integrated predictive modeling is unique: aimed at a **unified world model relative to self** for **flexible control**, **embodied and egocentric**, linked to **relevance evaluation**, includes **self-modeling**, results are **integrated and globally available**. This combination constitutes a process felt from inside as subjective experience.
+1.  **Multidimensional State Space:** Predictive modeling unfolds as a trajectory within the system’s complex neural state space [@churchlandNeurophilosophyUnifiedScience1989].
+2.  **Dimensions and Phenomenal Characteristics:** Aspects of experience correspond to characteristics of this process:
+    -   **Specificity/Quality:** Constituted by the specific pattern/region in state space occupied when modeling a particular interaction type (e.g., "red" vs. "blue"), learned through interaction statistics.
+    -   **Intensity/Clarity:** Constituted by dynamic characteristics like stability, signal strength (firing rate/synchrony), and assigned precision [@hohwyPredictiveMind2013].
+    -   **Affective Valence:** Constituted by the system's ongoing evaluation of its **interoceptive prediction errors** relative to homeostatic/allostatic goals [@sethInteroceptiveInferenceEmotion2013; @barrettTheoryConstructedEmotion2017]. Valence *is* the phenomenal character of this relevance assessment: successfully minimizing predicted interoceptive errors (progress towards goals) is intrinsically felt as positive valence; failing to do so (threats/deviations) is felt as negative valence.
+3.  **Analogy with Emergent Macro-Properties:** Like "temperature" or "fluidity," qualia are real macroscopic properties arising from neural modeling organization and dynamics [@kimMakingSenseEmergence1999], requiring no extra "essence."
+4.  **Why This Specific Process?:** The unique combination of features—a unified world model relative to an embodied, egocentric self, aimed at flexible control, linked to relevance evaluation, including self-modeling, with results integrated and globally available—constitutes a process that, when experienced from within, *is* subjective experience.
 
 
-## 4.3. Subjectivity and the "First-Person Perspective"
+## 4.3. Subjectivity and the “First-Person Perspective”
 
-Experience's subjectivity arises not from a separate observer, but the **modeling system's inherent perspective**. The model is constructed:
-
--  **Egocentrically:** Relative to the agent's body position/state.
-
--  **Embodiedly:** Based on this body's unique sensory/interoceptive signals.
-
--  **Goal-orientedly:** In context of this agent's needs, goals, history.
-
-The "first-person perspective" is this active, embodied, modeling system's perspective [@metzingerBeingNoOne2004; @hohwyPredictiveMind2013].
-
+Experience's subjectivity arises not from a separate observer, but from the **modeling system's inherent perspective**. The model is constructed egocentrically (relative to the agent's body/state), embodiedly (based on unique sensory/interoceptive signals), and goal-orientedly (in context of the agent's needs/history). The "first-person perspective" *is* this active, embodied, goal-oriented modeling system’s perspective [@metzingerBeingNoOne2004; @hohwyPredictiveMind2013].
 
 
 ##  4.4. Strategy for Addressing the “Hard Problem”
@@ -65,7 +44,7 @@ EPET begins by reframing the core question. Instead of asking, “Why does physi
 
 The cornerstone of EPET’s approach to the hard problem is a **constitutive explanation of qualia, grounded in emergentist physicalism.** EPET posits a form of **identity**: qualia **are** specific, high-level organizational and dynamic properties of the integrated, embodied predictive modeling process itself, when this process reaches sufficient complexity, stability, global availability, and system-evaluated relevance (as detailed in Sections 4.1 and 4.2).
 
--   **Identity, Not Causation:** This is not a claim that process P causes qualia Q as a separate effect. Instead, it is an identity claim: to be this specific kind of complex, integrated, embodied predictive process is to be or to instantiate the phenomenal experience Q. The subjective "what-it's-likeness" is the intrinsic aspect of this particular kind of organized dynamic process unfolding. This aligns with contemporary approaches viewing qualia as intrinsic features of certain neural computations, such as Safron's proposal that phenomenal consciousness is "what it is like to be the functioning of a probabilistic generative model" [@Safron2020], Harris's view of qualia as dynamic "query acts" within predictive coding [@Harris2025], or Gong's characterization of conscious experience as the brain's best predictive hypothesis made explicit at a global level [@gongComputationalExplanationConsciousness2024].
+-   **Identity, Not Causation:** This is not a claim that process P causes qualia Q as a separate effect. Instead, it is an identity claim: to be this specific kind of complex, integrated, embodied predictive process is to be or to instantiate the phenomenal experience Q. The subjective "what-it's-likeness" is the intrinsic aspect of this particular kind of organized dynamic process unfolding. This aligns with contemporary approaches viewing qualia as intrinsic features of certain neural computations, such as Safron's proposal that phenomenal consciousness is "what it is like to be the functioning of a probabilistic generative model" [@safron2020implemented], Harris's view of qualia as dynamic "query acts" within predictive coding [@harrisQualiaQueryAct2025], or Gong's characterization of conscious experience as the brain's best predictive hypothesis made explicit at a global level [@gongComputationalExplanationConsciousness2024].
     
 -   **Epistemic Perspectives:** The apparent gap between an objective, third-person description of neural activity (the 'process P') and a subjective, first-person experience (the 'quale Q') can then be understood as arising from two distinct **epistemic perspectives** on the same underlying emergent phenomenon. The objective perspective describes the structure and dynamics of the process, while the subjective perspective is the process unfolding as experienced by the system itself. The challenge of bridging these perspectives is thus seen not as an ontological chasm, but as an epistemic one, related to the different ways we access and conceptualize the same reality (see Section 4.4.4).
     
@@ -78,7 +57,7 @@ EPET’s constitutive view is grounded in a consistent **emergentist physicalism
     
 -   **The "Nothing Extra" Principle:** Just as biology no longer seeks an extra ‘élan vital’ to explain life, consciousness science, within an emergentist physicalist framework, need not demand an extra non-physical ‘phenomenal essence’ beyond the specific, complex dynamics realizing the functional and relational properties of experience. The intuition that something 'extra' is needed often stems from a presupposition that qualia must be simple, monadic properties, divorced from the complexity of the underlying process. EPET, by contrast, suggests that the richness and specificity of qualia are reflections of the richness and specificity of the integrated predictive modeling process itself. Thus, the search for an 'extra' ingredient becomes unnecessary once the phenomenal is understood as the intrinsic nature of this specific kind of organized complexity.
     
--   **Qualia as Real, Emergent, and Causally Relevant Properties:** Critically, EPET affirms the **reality of phenomenal experience and qualia**. They are not illusions to be explained away (contra strong illusionism, e.g., [@carruthersStopCaringConsciousness2020]). Instead, EPET identifies qualia with specific, real, and **causally relevant** properties of the emergent predictive process itself. As high-level organizational patterns, these conscious states can exert distinct causal influences on the system's behavior, understood within frameworks like interventionism (see Section 7.5 and sources such as [@OConnor2021; @Negro2022; @Cea2021]).
+-   **Qualia as Real, Emergent, and Causally Relevant Properties:** Critically, EPET affirms the **reality of phenomenal experience and qualia**. They are not illusions to be explained away (contra strong illusionism, e.g., [@carruthersStopCaringConsciousness2020]). Instead, EPET identifies qualia with specific, real, and **causally relevant** properties of the emergent predictive process itself. As high-level organizational patterns, these conscious states can exert distinct causal influences on the system's behavior, understood within frameworks like interventionism (see Section 7.5 and sources such as [@oconnorEmergentProperties2021; @Negro2022; @Cea2021]).
 
     
 

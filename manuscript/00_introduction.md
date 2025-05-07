@@ -1,4 +1,4 @@
-Word Count (excluding bibliography): 15082
+Word Count (excluding bibliography): 15111
 
 
 # Introduction: Towards an Integrative Theory of Consciousness
