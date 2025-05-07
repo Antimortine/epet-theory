@@ -66,6 +66,15 @@ submission_pdf: $(MD_FILES_LIST) $(ANONYMOUS_METADATA) Makefile $(shell find man
 		$(MD_FILES) -o $(ANONYMOUS_PDF_OUTPUT)
 	@echo ">>> Сборка АНОНИМНОГО PDF завершена."
 
+# Новая цель для подсчета слов без библиографии
+count_words: $(MD_FILES_LIST) $(ANONYMOUS_METADATA) Makefile $(shell find manuscript -name '*.md')
+	@echo ">>> Подсчет слов в рукописи (без библиографии)..."
+	@WORD_COUNT=$$( $(PANDOC) \
+		--metadata-file=$(ANONYMOUS_METADATA) \
+		-V bibliography=false \
+		$(MD_FILES) --to=plain | wc -w ); \
+	echo ">>> Приблизительное количество слов (без библиографии): $$WORD_COUNT"
+
 # Цель для очистки сгенерированных файлов
 clean:
 	@echo ">>> Очистка директории output..."
@@ -73,4 +82,4 @@ clean:
 	@echo ">>> Очистка завершена."
 
 # Фиктивные цели (чтобы make не путал их с файлами)
-.PHONY: all clean submission_pdf
+.PHONY: all clean submission_pdf count_words

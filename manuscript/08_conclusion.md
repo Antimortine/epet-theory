@@ -15,81 +15,124 @@ Building on this synthesis, EPET relies on two central mechanisms and two core c
 -   **Self:** Interpreted as a dynamically maintained self-model, aligning with the Anattā doctrine by emphasizing the processual and non-substantial nature of personal identity.
     
 
-## Main Achievements and Strengths of EPET:
+## 8.1. Main Achievements and Strengths of EPET
 
-EPET's strength is its **integrative approach**, synthesizing insights from consciousness science (PP, GWT), Western philosophy (emergentism), and Buddhist philosophy (notably the principle of Anattā or no-self, and the processual understanding of Paṭiccasamuppāda or dependent origination). This yields a **scientifically grounded, non-reductive** explanation avoiding extremes (dualism, panpsychism, illusionism), offering a **coherent account** of experience's content, quality, and self-sense, with significant **heuristic value**.
+The primary strength and contribution of EPET lies in its **systematic philosophical synthesis** of key insights drawn from contemporary consciousness science, Western philosophy of mind, and select Buddhist philosophical concepts. This integrative approach leads to several key achievements:
 
-## Acknowledgment of Limitations and Open Questions:
+1.  **A Coherent and Philosophically Grounded Framework:** EPET offers a **coherent theoretical framework** for understanding consciousness, explicitly grounded in **non-reductive (weak) emergentist physicalism**. This allows it to navigate a path that avoids the metaphysical extremes of substance dualism, panpsychism, or strong eliminative illusionism, while still affirming the reality of subjective experience.
+    
+2.  **Principled Integration of Core Mechanisms:** The theory provides a **principled integration** of leading scientific models – Predictive Processing (PP) for content and quality generation, Global Workspace Theory (GWT) for conscious access and integration, and Embodied Cognition for grounding experience in bodily processes. The novelty here is not just the combination, but the **specific philosophical interpretation** of how these mechanisms collectively realize conscious experience.
+    
+3.  **A Constitutive Explanation of Qualia:** EPET proposes a **specific, constitutive explanation for qualia** (Section 4), viewing them as intrinsic, high-level properties of the integrated, embodied predictive modeling process itself. This offers a naturalistic approach to the 'hard problem' by reframing it as a question of realization within an emergentist ontology.
+    
+4.  **A Naturalistic and Anattā-Compatible Account of Self:** The theory provides a **naturalistic explanation for the phenomenal self** as a dynamic, constructed self-model arising from recursive predictive processing (Section 3.2). This account is explicitly constrained by and compatible with the Buddhist principle of **Anattā (no-self)**, offering a unique synthesis of scientific modeling and philosophical insight into the nature of selfhood.
+    
+5.  **Significant Heuristic and Explanatory Power:** By integrating these diverse elements, EPET achieves significant **heuristic value**, generating novel, empirically testable hypotheses (as detailed in Section 8.4) that arise specifically from its unique synthesis. It also offers a **comprehensive account** that aims to explain the content, qualitative character, and subjective sense of self within a unified structure.
+    
+6.  **Conceptual Enrichment from Buddhist Philosophy:** The judicious incorporation of Buddhist philosophical concepts (such as Anattā, and a process-oriented understanding of phenomena as impermanent and dependently arisen) serves not only as an illustrative parallel but as a source of **conceptual constraints and heuristic guidance**, enriching the theory's philosophical depth and directing its development towards a non-substantialist, process-based view of mind.
 
-EPET, like any current theory, has limitations:
+In essence, EPET aims to provide not just a collection of ideas, but a systematically articulated **philosophical interpretation** of how consciousness, in its various facets, can emerge from and be realized by complex physical systems.
 
--   The "hard problem" response remains debatable.
-    
--   Mechanistic details (PP-GWT interaction, valence generation) need refinement.
-    
--   More empirical testing is required.
-    
--   The full spectrum of phenomena might not be covered.
-    
--   Buddhist concept interpretations can be discussed.
-    
--   Underspecified PP↔GWT mechanisms: Although EPET posits that precision-weighted prediction errors are broadcast via recurrent loops and phase synchrony, the exact neural implementation—e.g., the cellular circuits mediating precision tagging and the temporal dynamics of global ignition—remains to be empirically detailed.
-    
--   Boundaries of applicability: EPET’s framework assumes human-like hierarchical inference architectures; its applicability to non-human animals with different predictive hierarchies or to artificial systems (e.g., deep learning networks) requires further theoretical adaptation and experimental validation.
-    
+## 8.2. Acknowledging Current Limitations and Identifying Open Questions
 
-## Directions for Future Research:
+While EPET aims to provide a comprehensive and coherent framework, it is important to acknowledge, like any contemporary theory of consciousness, its current limitations and the open questions that remain:
 
-Future work includes: **Theoretical** (refining models, integrating with emotion/social cognition, exploring meditation links, formal/computational modeling) and **Empirical** (new paradigms for testing correlates of prediction/error/precision/valence, neurostimulation, ASC studies).
-
-## Testable Hypotheses of EPET
-
-EPET generates specific, potentially falsifiable hypotheses:
-
-**Prediction 1 (Revised): Interaction of Interoceptive State and Exteroceptive Access.**
-
--   **EPET Hypothesis:** Conscious access (GWT) to exteroceptive stimuli is not solely determined by stimulus strength/task relevance but is dynamically modulated by the organism's ongoing interoceptive state (PP-based valence/arousal signals). Specifically, high-precision negative interoceptive prediction errors (signaling threat/homeostatic imbalance) might prioritize internal monitoring, raising the threshold for accessing external, non-threatening stimuli, even if they are physically salient. This integrates PP (interoceptive prediction/precision), GWT (access threshold), and embodiment.
+1.  **The Explanatory Status of Qualia:** While EPET offers a constitutive explanation of qualia within an emergentist physicalist framework (Section 4.4), the debate surrounding the 'hard problem' of consciousness is ongoing, and the proposed response may not fully satisfy all philosophical perspectives regarding the nature of subjective experience.
     
--   **Prediction:** In attentional blink or perceptual threshold tasks, inducing a mild, controlled interoceptive challenge (e.g., unexpected physiological perturbation like slight dyspnea or cold pressor test, carefully controlled) compared to a neutral baseline should **increase the threshold** for conscious report (GWT access, indexed by P3b latency/amplitude or report accuracy) of task-irrelevant but physically salient exteroceptive stimuli, while potentially enhancing access for stimuli perceived as relevant to the interoceptive state. Subjective ratings of valence/anxiety should mediate this effect.
+2.  **Specificity of Core Mechanisms:** Although EPET outlines the interaction between Predictive Processing (PP) and Global Workspace Theory (GWT), further refinement is needed regarding:
+    *   **The PP↔GWT Interface:** The precise neural implementation of how PP-generated content (or prediction errors) achieves global availability via GWT mechanisms—including the specific roles of different oscillatory dynamics (e.g., alpha/beta vs. gamma interactions), the precise computations underlying "ignition" thresholds, and the contributions of thalamo-cortical and neuromodulatory systems—requires more detailed empirical and computational modeling (as discussed in Section 3.1.6).
+    *   **Valence Generation:** The exact mechanisms by which interoceptive prediction errors are translated into affective valence, and how this process is modulated by higher-level self-models, warrant more detailed explication.
+    *   **Self-Modeling Dynamics:** The processes underlying the construction, maintenance, and updating of the predictive self-model, and how these relate to different facets of self-awareness, need further theoretical and empirical exploration.
     
--   **Methods:** EEG, psychophysiology (ECG, respiration), psychophysics (attentional blink, masking), subjective reports.
+3.  **Empirical Validation:** Many of EPET's core tenets and specific hypotheses (Section 8.4) require rigorous and targeted empirical testing. While the theory is grounded in existing scientific findings, its unique integrative claims necessitate new experimental paradigms.
     
--   **Falsification:** Conscious access threshold for external stimuli remains unchanged despite significant manipulation of interoceptive prediction error/affective state; or, interoceptive state only affects overall arousal/performance non-specifically, without the predicted interaction with stimulus relevance/access thresholds. This would challenge the proposed integration of interoceptive PP modulation with GWT access mechanisms.
+4.  **Phenomenological Scope:** The current formulation of EPET primarily addresses normative waking consciousness. Its capacity to fully account for the entire spectrum of conscious phenomena, including various altered states of consciousness (e.g., dreaming, meditative states, psychedelic experiences) or pathological forms of consciousness, needs to be systematically investigated and potentially expanded.
+    
+5.  **Interpretation and Integration of Buddhist Concepts:** The philosophical interpretation and methodological application of Buddhist concepts within a scientific framework is a complex endeavor. The specific way EPET employs these concepts (e.g., Anattā, process ontology) is open to scholarly discussion and refinement to ensure both philosophical integrity and scientific utility.
+    
+6.  **Boundaries of Applicability:** EPET’s framework is largely developed based on human consciousness and assumes complex, hierarchically organized predictive architectures. Its direct applicability to non-human animals with potentially different cognitive and neural architectures, or to current and future artificial intelligence systems, requires careful theoretical adaptation and empirical validation to determine the necessary and sufficient conditions for emergent predictive experience in those contexts.
+
+Addressing these limitations and open questions will be crucial for the continued development and evaluation of EPET as a robust theory of consciousness.
     
 
-**Prediction 2: Self-Attribution Modulates Affective Valence.**
+## 8.3. Directions for Future Research
 
--   **EPET Hypothesis:** The subjective affective valence arising from an interoceptive prediction error (PP mechanism) is modulated by the predictive self-model (a PP construct). Attributing the physiological change underlying the error to an internal, self-related cause versus an external, non-self cause should alter the resulting phenomenal feel, even if the raw error signal is identical. This integrates interoceptive PP and self-modeling PP.
-    
--   **Prediction:** Using ambiguous physiological feedback paradigms (e.g., false heart-rate feedback), experimentally manipulate participants' belief about the source of a perceived change (e.g., "due to your emotional reaction" vs. "due to the equipment/external stimulus"). EPET predicts that attributing the change to 'self' will result in **different subjective valence/arousal ratings** (and potentially different neural correlates in insula/ACC/mPFC) compared to attributing the identical physiological signal change to an external source. The strength of self-related DMN activity might correlate with the degree of modulation.
-    
--   **Methods:** fMRI/EEG, psychophysiology, false feedback paradigms, subjective reports, potentially TMS over DMN nodes.
-    
--   **Falsification:** Subjective valence ratings are solely determined by the magnitude/direction of the (manipulated) physiological signal, irrespective of causal attribution; no significant difference in subjective report or neural correlates based on attribution manipulation. This would challenge the integration of self-modeling with the generation of affective qualia.
-    
+The integrative framework of EPET opens up several promising avenues for future theoretical development and empirical investigation. Key directions include:
 
-**Prediction 3: Disrupted Self-Model Alters Perceptual Binding and Stability.**
+1.  **Developing a Detailed EPET-Based Account of Affective Valence:** A crucial area for expansion is a more detailed explication of how interoceptive prediction errors, modulated by precision and the self-model, constitute the spectrum of affective valence (pleasant/unpleasant feeling tones). This would involve integrating EPET more deeply with theories of emotion and motivation, and could lead to specific hypotheses about the neural substrates of affect (e.g., involving the insula, anterior cingulate cortex) within a predictive processing architecture.
+    
+2.  **Articulating a Compatibilist Model of Free Will within EPET:** The theory provides a rich foundation for re-examining the philosophical problem of free will. Future work could articulate a compatibilist position grounded in EPET's account of conscious access (GWT), predictive self-modeling (PP), and the role of precision (attention) in decision-making. This would involve exploring how the sense of agency and deliberative choice can emerge from the theory's proposed mechanisms.
+    
+3.  **Exploring the Implications of EPET for Artificial Consciousness:** Applying the core architectural and functional principles of EPET (hierarchical predictive modeling, an analogue of a global workspace, embodied self-modeling, and mechanisms for evaluating internal relevance) to the design and assessment of artificial intelligence systems could provide novel criteria for evaluating the potential for, and necessary conditions for, the emergence of artificial consciousness.
+    
+4.  **Investigating Psychopathology through the Lens of EPET:** The framework offers a potentially powerful tool for understanding various psychopathologies as specific disruptions in the mechanisms of predictive processing, global access, interoceptive inference, or self-modeling. For example, conditions like depression, anxiety disorders, or psychosis could be re-conceptualized in terms of aberrant prior beliefs, dysfunctional precision weighting, or unstable self-models, opening new avenues for diagnostic and therapeutic interventions.
 
--   **EPET Hypothesis:** The stability and precision of the predictive self-model (PP construct, the understanding of which is informed by the Anattā principle) acts as a high-level prior influencing lower-level perceptual inference. Disrupting this self-model (e.g., via meditation, psychedelics, or TMS) should decrease the top-down stabilization of perceptual interpretations, leading to measurable changes in perceptual binding and bistable perception dynamics, potentially allowing weaker or unusual interpretations global access (GWT). This integrates self-modeling PP, perceptual PP, and GWT.
-    
--   **Prediction:** Inducing states of reduced self-focus or ego dissolution (e.g., post-mindfulness meditation, potentially low-dose psychedelics in controlled settings, or TMS targeting DMN hubs) should lead to **decreased stability in bistable perception** (e.g., faster switching rates for Necker cube/binocular rivalry) and potentially **increased susceptibility to illusory conjunctions** in feature binding tasks, compared to a control state. These perceptual changes should correlate with markers of reduced self-model precision (e.g., decreased DMN coherence, specific questionnaire scores).
-    
--   **Methods:** EEG/fMRI, psychophysics (bistable perception, feature binding tasks), meditation/ASC induction protocols, subjective reports (e.g., Ego Dissolution Inventory), potentially TMS.
-    
--   **Falsification:** States of ego dissolution show no systematic effect on perceptual stability or binding, or the effects are non-specific (e.g., general decrease in attention); perceptual changes do not correlate with markers of self-model disruption. This would challenge the proposed role of the self-model as a high-level prior influencing perception and access.
-    
+Beyond these specific areas, further **theoretical work** will involve refining the formal and computational aspects of EPET, particularly the precise dynamics of the PP-GWT interface, and extending its explanatory scope to a wider range of conscious phenomena, including different altered states of consciousness and social cognition. **Empirically**, the hypotheses generated by EPET (Section 8.4) call for new experimental paradigms, potentially utilizing neuroimaging, neurostimulation, and advanced psychophysical methods to test its core predictions regarding the interplay of prediction, precision, interoception, and global availability in shaping conscious experience.
 
-**Prediction 4: Sense of Agency Modulates Active Inference Efficacy.**
+## 8.4. Testable Hypotheses of EPET
 
--   **EPET Hypothesis:** The effectiveness of embodied action (active inference) in resolving perceptual uncertainty and stabilizing percepts (PP mechanism) is modulated by the phenomenal sense of agency, which is part of the predictive self-model (PP construct). Actions performed with a strong sense of agency should be more effective at minimizing prediction error and stabilizing the accessed percept (GWT) than identical actions performed passively or with experimentally reduced agency. This integrates active inference (PP/Embodiment), self-modeling (PP/Agency), and GWT (stabilization of accessed percept).
-    
--   **Prediction:** In a task where participants use subtle motor actions (e.g., eye movements, manual adjustments) to disambiguate a noisy or bistable stimulus, manipulating the perceived sense of agency over those actions (e.g., using slight delays or distortions in action-feedback loops, instructions biasing agency attribution) will modulate perceptual outcomes. Specifically, **higher reported sense of agency** should correlate with **faster perceptual resolution and/or greater stability** of the chosen percept, even when the physical action and sensory information are matched across conditions. Neural markers of agency (e.g., readiness potential attenuation, specific parietal activity) should correlate with both subjective agency and perceptual stabilization.
-    
--   **Methods:** Motion tracking, EEG, psychophysics (perceptual stabilization/disambiguation tasks), agency manipulation paradigms, subjective reports (sense of agency scales).
-    
--   **Falsification:** Perceptual stabilization/resolution depends only on the physical action and resulting sensory input, irrespective of the manipulated sense of agency; no correlation between neural/subjective markers of agency and the effectiveness of active inference. This would challenge the integration of the self-model (agency) with the embodied mechanisms of active perceptual inference.
-    
+EPET, as an integrative philosophical and scientific framework, generates specific, potentially falsifiable hypotheses that arise from the unique interplay of its core components (Predictive Processing, Global Workspace Theory, Embodiment, and a processual Self-Model). Testing these hypotheses can provide empirical support for or challenges to the theory:
 
-## Final Statement:
+**Prediction 1: Dynamic Modulation of Exteroceptive Conscious Access by Interoceptive Prediction Error and Precision.**
 
-EPET is proposed not as the final word, but as a fruitful, coherent, empirically grounded framework offering a **constitutive, mechanistic, and naturalistic explanation** of subjective experience within non-reductive physicalism. By synthesizing predictive processing, global access, embodiment, emergentism, and Buddhist insights, EPET aims to advance our understanding of subjective experience, stimulating further discussion, critique, and research.
+-   **EPET Hypothesis:** Conscious access to exteroceptive stimuli, mediated by Global Workspace (GWT) mechanisms, is not solely determined by external stimulus strength or task relevance. Instead, it is dynamically modulated by the organism's ongoing interoceptive state, as represented by precision-weighted interoceptive prediction errors (PP-based valence/arousal signals). Specifically, high-precision negative interoceptive prediction errors (e.g., signaling homeostatic imbalance or threat) are hypothesized to upregulate the precision of internal monitoring signals, thereby raising the threshold for exteroceptive, non-immediately-relevant stimuli to achieve global broadcast and conscious access, even if those stimuli are physically salient. This hypothesis directly tests the integration of interoceptive PP (prediction error and precision dynamics), GWT (access thresholds), and embodiment.
+    
+-   **Prediction:** In attentional blink or perceptual threshold tasks, inducing a mild, controlled interoceptive challenge (e.g., unexpected physiological perturbation like slight dyspnea, cold pressor test, or caloric vestibular stimulation, carefully controlled for safety and ethics) compared to a neutral baseline should **increase the threshold** for conscious report of task-irrelevant but physically salient exteroceptive stimuli. This would be evidenced by, for example, delayed P3b latency, reduced P3b amplitude, or lower report accuracy for these stimuli. Conversely, access might be enhanced for exteroceptive stimuli perceived as relevant to mitigating the interoceptive state. Subjective ratings of affective valence and anxiety, along with physiological markers of the interoceptive state, should mediate this effect. Changes in fronto-parietal network activity, indicative of GWT engagement, and insular/ACC activity, reflecting interoceptive processing, are also expected.
+    
+-   **Methods:** EEG/fMRI, psychophysiology (ECG, respiration, EDA), psychophysics (attentional blink, masking paradigms), subjective reports (valence, anxiety, interoceptive awareness scales).
+    
+-   **Falsification:** The threshold for conscious access to external stimuli remains unchanged despite significant and subjectively reported manipulations of interoceptive prediction error and affective state; or, the interoceptive state only affects overall arousal/performance non-specifically, without the predicted interaction with stimulus relevance or specific GWT-related neural markers. This would challenge EPET's proposed integration of interoceptive PP modulation with GWT access mechanisms.
+
+**Prediction 2: Modulation of Affective Valence by the Predictive Self-Model's Causal Attributions of Interoceptive Signals.**
+
+-   **EPET Hypothesis:** The subjective affective valence (a core type of qualia) arising from an interoceptive prediction error (a PP mechanism) is not solely determined by the raw error signal but is significantly modulated by the **predictive self-model** (a dynamic PP construct, consistent with Anattā). Specifically, the causal attribution of the physiological change underlying the interoceptive error—whether attributed to an internal, self-related cause versus an external, non-self environmental cause by the self-model—should alter the resulting phenomenal character of the affective experience. This tests the integration of interoceptive PP, self-modeling PP, and the generation of affective qualia.
+    
+-   **Prediction:** Using ambiguous physiological feedback paradigms (e.g., false heart-rate feedback or manipulated skin conductance feedback), experimentally manipulate participants' belief about the source of a perceived physiological change (e.g., "This change is due to your internal emotional reaction to the stimuli" vs. "This change is due to the properties of the equipment/external stimulus"). EPET predicts that attributing the identical (manipulated) physiological signal change to a **'self'-related cause** will result in **quantifiably different subjective valence and arousal ratings** (e.g., more intense negative valence if the signal is aversive and self-attributed) and distinct neural correlates (e.g., in insula, ACC, mPFC, and DMN regions) compared to attributing it to an external source. The degree of DMN engagement or connectivity changes might correlate with the strength of this self-attribution effect.
+    
+-   **Methods:** fMRI/EEG, psychophysiology (HRV, EDA), false feedback paradigms, validated scales for subjective valence/arousal and self-consciousness, potentially TMS to modulate DMN activity.
+    
+-   **Falsification:** Subjective valence and arousal ratings are solely determined by the magnitude and direction of the manipulated physiological signal, irrespective of the experimentally induced causal attribution. No significant differences in subjective reports or associated neural correlates (particularly in self-processing and interoceptive networks) are found based on the attribution manipulation. This would challenge EPET's claim that the predictive self-model actively shapes the phenomenal character of interoceptively-grounded affective qualia.
+
+**Prediction 3: Impact of Predictive Self-Model Perturbations on Perceptual Stability, Integration, and Global Access.**
+
+-   **EPET Hypothesis:** The stability and precision of the **predictive self-model** (a high-level PP construct, whose non-substantial nature is informed by the Anattā principle) acts as a crucial set of top-down priors influencing lower-level perceptual inference and integration. Disrupting or altering the coherence or precision of this self-model (e.g., via specific meditative practices, controlled administration of psychedelics, or non-invasive brain stimulation targeting key self-processing network nodes like the DMN) should decrease the efficacy of top-down stabilization of perceptual interpretations. This would lead to measurable changes in perceptual binding, the dynamics of bistable perception, and potentially allow weaker, ambiguous, or unusual sensory interpretations to gain **global access** (GWT). This tests the integration of self-modeling PP, perceptual PP, and GWT.
+    
+-   **Prediction:** Inducing states characterized by reduced self-focus, altered self-boundaries, or "ego dissolution" (e.g., following intensive mindfulness/insight meditation, under controlled low-dose psychedelic administration, or via rTMS targeting DMN hubs like the mPFC or PCC) should lead to: (a) **decreased stability in bistable perception** (e.g., faster switching rates for Necker cube, binocular rivalry), (b) potentially **increased susceptibility to illusory conjunctions** in feature binding tasks, and (c) altered report thresholds for ambiguous stimuli. These perceptual changes should correlate with validated subjective measures of self-model alteration (e.g., Ego Dissolution Inventory) and neurophysiological markers of reduced self-model precision or DMN integrity (e.g., decreased DMN coherence in fMRI/EEG).
+    
+-   **Methods:** EEG/fMRI, psychophysics (bistable perception, feature binding tasks, signal detection tasks with ambiguous stimuli), validated meditation/ASC induction protocols, subjective report questionnaires (EDI, 5D-ASC), potentially rTMS.
+    
+-   **Falsification:** States of significant self-model alteration (as measured by subjective reports and neural markers) show no systematic or specific effects on perceptual stability, integration, or access dynamics beyond non-specific changes (e.g., general decrease in attention or arousal). Perceptual changes, if any, do not correlate with the degree of self-model disruption. This would challenge EPET's proposed role of the predictive self-model as a high-level prior that actively shapes and stabilizes perception and its access to the global workspace.
+
+**Prediction 4: The Modulatory Role of the Phenomenal Sense of Agency (as a Self-Model Construct) on Active Inference and Perceptual Stabilization.**
+
+-   **EPET Hypothesis:** The effectiveness of embodied action (Active Inference) in resolving perceptual uncertainty and stabilizing conscious percepts (a PP mechanism) is modulated by the **phenomenal sense of agency**. This sense of agency is itself an output of the predictive self-model, arising from the successful prediction of sensory consequences of self-generated actions. Actions performed with a strong, coherent sense of agency are hypothesized to be more effective at minimizing prediction error and leading to a stable, globally accessed (GWT) percept than identical physical actions performed passively or with an experimentally reduced or disrupted sense of agency. This tests the integration of Active Inference (PP/Embodiment), self-modeling (PP/Agency), and GWT (stabilization of accessed percepts).
+    
+-   **Prediction:** In tasks where participants use subtle motor actions (e.g., saccadic eye movements, fine manual adjustments, joystick control) to disambiguate a noisy, ambiguous, or bistable stimulus, experimentally manipulating the perceived sense of agency over those actions (e.g., by introducing slight, unpredictable delays or distortions in action-feedback loops, or by using instructions that bias agency attribution) will modulate perceptual outcomes. Specifically, a **higher reported sense of agency** should correlate with **faster perceptual resolution, greater stability of the chosen percept, and increased confidence in the percept**, even when the physical parameters of the action and the resulting sensory information are closely matched across conditions. Neural markers of agency (e.g., attenuation of the N1 component of sensory evoked potentials for self-caused sensations, specific parietal or pre-motor cortical activity) should correlate with both subjective agency ratings and the efficacy of active perceptual inference.
+    
+-   **Methods:** Motion tracking (eye-tracking, hand/joystick tracking), EEG/MEG (for sensory attenuation and agency-related potentials), psychophysics (perceptual stabilization/disambiguation tasks with active components), agency manipulation paradigms (e.g., intentional binding tasks, feedback distortion), subjective reports (sense of agency scales, confidence ratings).
+    
+-   **Falsification:** Perceptual stabilization and resolution depend solely on the physical parameters of the action and the resulting sensory input, irrespective of the manipulated or reported sense of agency. No significant correlation is found between neural or subjective markers of agency and the effectiveness of active inference in shaping conscious perception. This would challenge EPET's claim that the self-model's agency component plays a functional role in the efficacy of embodied predictive processing and perceptual stabilization.
+
+**Prediction 5: Neurodynamic Signatures of PP-GWT Interface for Conscious Access.**
+
+-   **EPET Hypothesis:** The transition of information from non-conscious Predictive Processing (PP) hierarchies to a state of conscious access via the Global Workspace (GWT) is marked by specific, measurable neurodynamic signatures reflecting the successful global broadcast of high-precision prediction errors or stabilized high-level predictions. These signatures are hypothesized to involve characteristic changes in neural oscillations, particularly a dynamic interplay between lower-frequency bands (e.g., alpha/beta, associated with top-down predictive modulation) and higher-frequency bands (e.g., gamma, associated with bottom-up error signaling and local processing).
+    
+-   **Prediction:**
+    1.  **Oscillatory Dynamics:** Conscious access to a stimulus (i.e., its "ignition" in the GWT) will be reliably preceded or accompanied by:
+        *   A transient **decrease in alpha/beta power** in relevant cortical networks (e.g., fronto-parietal and sensory areas involved), reflecting a release from top-down predictive inhibition or a shift in attentional state facilitating bottom-up processing [@bastosLayerRhythmSpecificity2020; @xiongPropofolmediatedLossConsciousness2024].
+        *   A concurrent or immediately subsequent **increase in gamma-band power and/or synchrony** within and between task-relevant sensory and associative (e.g., fronto-parietal) cortices, reflecting the propagation of prediction errors or the formation and broadcast of a conscious percept [@singerNeuronalSynchronyVersatile1999; @mashourConsciousProcessingGlobal2020].
+        *   Specific patterns of **cross-frequency coupling** (e.g., phase-amplitude coupling between theta/alpha and gamma) might emerge as a marker of hierarchical information integration and broadcast.
+    2.  **Late ERP Components:** The P3b component (or analogous late, widespread ERPs) will be strongly associated with the global availability of information, reflecting the large-scale neural recruitment characteristic of GWT ignition [@dehaeneConsciousnessBrainDeciphering2014; @sergentTimingBrainEvents2005]. The amplitude and latency of P3b should correlate with the strength/precision of the signal achieving global access.
+    3.  **Connectivity:** Functional connectivity (e.g., measured by coherence or Granger causality) between posterior (sensory) and anterior (fronto-parietal) regions in gamma and/or beta bands will be transiently enhanced during conscious access, reflecting the broadcasting process.
+    
+-   **Methods:** High-density EEG/MEG for excellent temporal resolution of oscillations and ERPs; fMRI for spatial localization of involved networks (though with lower temporal resolution for oscillatory dynamics). Paradigms that parametrically vary stimulus visibility or conscious reportability (e.g., attentional blink, masking, threshold perception tasks, no-report paradigms where applicable). Advanced signal processing techniques for analyzing oscillatory power, synchrony, cross-frequency coupling, and effective connectivity.
+    
+-   **Falsification:**
+    1.  Conscious access is not reliably associated with the predicted oscillatory changes (e.g., no consistent alpha/beta suppression or gamma enhancement, or opposite patterns are observed).
+    2.  Late ERP components like P3b are found to be dissociable from conscious report or global availability under conditions predicted by EPET to require them.
+    3.  No significant enhancement of relevant posterior-anterior connectivity is observed during conscious access, or connectivity patterns contradict a broadcasting model.
+    A failure to find these neurodynamic signatures would challenge EPET's proposed mechanistic link between PP-generated content achieving global availability via GWT and specific oscillatory/ERP markers of this process.
+
+## 8.5. Final Statement
+
+The Emergent Predictive Experience Theory (EPET) is put forth not as a definitive or final solution to the enigma of consciousness, but as a **fruitful, coherent, and empirically grounded philosophical framework**. It offers a **constitutive, mechanistic, and naturalistic explanation** of subjective experience, developed within the bounds of non-reductive physicalism. EPET's distinctiveness lies in its **systematic philosophical synthesis** of core mechanisms from Predictive Processing and Global Workspace Theory, integrated with principles of Embodied Cognition and emergentist metaphysics, and uniquely guided by select conceptual insights from Buddhist philosophy. By weaving these diverse threads into a unified structure, EPET aims to advance our understanding of how phenomenal experience and a sense of self can arise from complex physical systems, thereby stimulating further interdisciplinary discussion, critical evaluation, and novel avenues of research.
