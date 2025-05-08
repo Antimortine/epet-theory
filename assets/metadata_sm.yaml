@@ -1,12 +1,9 @@
 ---
-title: "Emergent Predictive Experience Theory (EPET): An Integrative Philosophy of Consciousness"
-author: |
-  A.V. Kopnin\
-  Independent Researcher\
-  Email: a.v.kopnin@gmail.com
-date: "May 2025"
+title: "Supplementary Materials for Emergent Predictive Experience Theory (EPET)"
+# author: A.V. Kopnin
+# date: "May 2025"
 # --- Bibliography and Citations ---
-bibliography: output/references_for_submission.bib
+bibliography: output/references_for_sm.bib
 csl: assets/csl/chicago-author-date.csl
 link-citations: true
 # --- Document Settings ---
@@ -22,9 +19,7 @@ toc-depth: 2
 mainfont: "DejaVu Serif"
 sansfont: "DejaVu Sans"
 monofont: "DejaVu Sans Mono"
-# Set language for polyglossia (recommended for XeLaTeX)
 polyglossia-lang:
   main: english
-# Other languages can be added if needed, e.g., for specific hyphenation, but usually not necessary
-# --- End of Metadata ---
+---
 ...

@@ -14,8 +14,7 @@ EPET specifically adheres to **weak (or epistemic) emergence** [@bedauWeakEmerge
 (1) **Ontological Dependence:** Conscious processes are fully determined by and supervene on underlying physical processes, with no violation of physical laws. However, this dependence allows for **genuinely novel system-level properties** that are not merely aggregative [@feinberg2020phenomenal; @oconnorEmergentProperties2021].
 (2) **Epistemic Irreducibility:** The properties and dynamics of consciousness cannot be fully explained or predicted solely in low-level physics terms; higher-level concepts are indispensable.
 (3) **Rejection of Strong Emergence:** EPET does not posit consciousness as having fundamental causal powers that alter or supplement fundamental physical laws, maintaining consistency with the causal closure of the physical at that level [@oconnorEmergentProperties2021].
-(4) **Causal Efficacy:** As a high-level emergent process, consciousness is considered **causally efficacious** [@kimMindPhysicalWorld2000]. It participates in causal chains as an organizational pattern guiding lower-level dynamics, its relevance understandable via frameworks like interventionism or as the causal power of high-level realizers [@woodwardMakingThingsHappen2005; @Negro2022; @Cea2021].
-Thus, EPET’s metaphysics acknowledges consciousness's reality and causal role within a physicalist worldview.
+(4) **Causal Efficacy:** As a high-level emergent process, consciousness is considered **causally efficacious** [@kimMindPhysicalWorld2000]. It participates in causal chains as an organizational pattern guiding lower-level dynamics, its relevance understandable via frameworks like interventionism or as the causal power of high-level realizers [@woodwardMakingThingsHappen2005; @Negro2022; @Cea2021] (see Section 7.5 for further discussion).
 
 
 ## 2.3. Emergentism and the Buddhist Principle of Conditionality
