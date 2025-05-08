@@ -15,7 +15,7 @@ Each approach has strengths, but none offers a comprehensive solution. A fruitfu
 
 ## 3. Introducing the Emergent Predictive Experience Theory (EPET)
 
-This work formulates such an integrative theory – the **Emergent Predictive Experience Theory (EPET)**. It is a philosophical theory grounded in **non-reductive (emergentist) physicalism** [@kimMakingSenseEmergence1999; @bedauWeakEmergence1997], viewing consciousness not as a fundamental property or a separate substance, but as a **real, emergent, and dynamic process** that arises from the specific organization and activity of a complex physical system (the brain-body) interacting with its environment.
+This work formulates such an integrative theory—the **Emergent Predictive Experience Theory (EPET)**. It is a philosophical theory grounded in **non-reductive (emergentist) physicalism** [@kimMakingSenseEmergence1999; @bedauWeakEmergence1997], viewing consciousness not as a fundamental property or a separate substance, but as a **real, emergent, and dynamic process** that arises from the specific organization and activity of a complex physical system (the brain-body) interacting with its environment.
 
 EPET builds upon and integrates several key developments in cognitive science and philosophy:
 
