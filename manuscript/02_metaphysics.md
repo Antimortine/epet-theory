@@ -8,7 +8,7 @@ EPET adopts **physicalism**: everything that exists is either physical or consti
 
 ## 2.2. Choosing Non-Reductive Emergentism
 
-Within physicalism, EPET rejects strong reductionism and eliminative materialism, adopting instead **non-reductive (emergentist) physicalism** [@kimMakingSenseEmergence1999; @bedauWeakEmergence1997; @claytonMindEmergenceQuantum2004]. This stance affirms that consciousness and qualia are **real processes** requiring explanation, not elimination. Consciousness is viewed as an **emergent process/property**, arising from the complex organization and dynamics of the brain-body-environment system, rather than being inherent in its fundamental components.
+Within physicalism, EPET rejects strong reductionism and eliminative materialism, adopting instead **non-reductive (emergentist) physicalism** [@kimMakingSenseEmergence1999; @bedauWeakEmergence1997; @claytonMindEmergenceQuantum2004]. This stance affirms that consciousness and qualia are **real processes** requiring explanation, not elimination. Consciousness is viewed as an **emergent process or property**, arising from the complex organization and dynamics of the brain-body-environment system, rather than being inherent in its fundamental components.
 
 EPET specifically adheres to **weak (or epistemic) emergence** [@bedauWeakEmergence1997; @chalmersStrongWeakEmergence2006]. This entails:
 
