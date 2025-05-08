@@ -1,9 +1,9 @@
 # === Переменные ===
 
 # --- Имена файлов ---
-OUTPUT_PDF = output/EPET_Theory_1.3.pdf
-ANONYMOUS_PDF_OUTPUT = output/EPET_Manuscript_Anonymous_1.3.pdf
-SM_PDF_OUTPUT = output/EPET_Supplementary_Materials_1.3.pdf
+OUTPUT_PDF = output/EPET_Theory_1.4.pdf
+ANONYMOUS_PDF_OUTPUT = output/EPET_Manuscript_Anonymous_1.4.pdf
+SM_PDF_OUTPUT = output/EPET_Supplementary_Materials_1.4.pdf
 
 # --- Исходные Markdown файлы ---
 MD_FILES_LIST_ANON = manuscript/input_files.txt # Список для анонимной версии и подсчета слов

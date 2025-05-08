@@ -1,4 +1,6 @@
 manuscript/Supplementary_Materials/SM_A_Foundational_Theories.md
 manuscript/Supplementary_Materials/SM_B_Extended_Comparisons.md
 manuscript/Supplementary_Materials/SM_C_Full_Hypotheses.md
+manuscript/Supplementary_Materials/SM_D_Thought_Experiments.md
+manuscript/Supplementary_Materials/SM_E_Explanatory_Advantages.md
 manuscript/Supplementary_Materials/SM_Z_references_header.md

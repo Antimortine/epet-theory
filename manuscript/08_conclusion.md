@@ -2,7 +2,7 @@
 
 This work presented the Emergent Predictive Experience Theory (EPET), an integrative philosophical theory of consciousness based on non-reductive physicalism. EPET views consciousness as a **real, emergent, dynamic, embodied process** arising from the specific organization and activity of the brain-body-environment system.
 
-EPET’s primary contribution is its integrated, non-reductive synthesis: it constitutively explains qualia as intrinsic features of hierarchical predictive processing and grounds the sense of self in dynamically maintained self-models compatible with the Anattā doctrine. This unified account overcomes key challenges—such as the “Hard Problem,” the Cartesian Theater, and the substance-dualism bias—by showing how conscious experience and selfhood emerge naturally from precision-weighted inference and global broadcasting.
+EPET’s primary contribution is its integrated, non-reductive synthesis: it constitutively explains qualia as intrinsic features of hierarchical predictive processing and grounds the sense of self in dynamically maintained self-models compatible with the Anattā doctrine. This unified account overcomes key challenges—such as the 'hard problem', the Cartesian Theater, and the substance-dualism bias—by showing how conscious experience and selfhood emerge naturally from precision-weighted inference and global broadcasting.
 
 Building on this synthesis, EPET relies on two central mechanisms and two core constructs:
 

@@ -24,7 +24,7 @@ def find_cited_keys(md_files):
                 # findall вернет список строк, соответствующих группе захвата (то, что в скобках)
                 keys_in_file = CITATION_PATTERN.findall(content)
                 if keys_in_file: # Debug print
-                    print(f"  Found keys in {md_file}: {keys_in_file}")
+                    print(f"  Found keys in {md_file}: {len(keys_in_file)}")
                 cited_keys.update(keys_in_file)
         except FileNotFoundError:
             print(f"Warning: Markdown file not found: {md_file}", file=sys.stderr)
