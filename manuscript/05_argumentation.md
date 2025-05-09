@@ -64,4 +64,4 @@ Mapping phenomenal dimensions to process parameters is plausible.
 -   **Buddhist concepts:** This mapping finds a conceptual parallel in the analysis of experience into the *khandhas*, where different aggregates contribute different dimensions (e.g., *saññā* to specificity, *vedanā* to valence).
 
 ## 5.4. Section Conclusion
-This overview demonstrates that EPET's central theses are grounded in scientific findings and integrate leading theoretical models (PP, GWT, Embodiment), while also showing conceptual resonance with fundamental Buddhist principles (Anattā, Anicca, Paṭiccasamuppāda, khandhas). This convergence suggests EPET's potential heuristic value and plausibility.
+This overview demonstrates that EPET's central theses are grounded in scientific findings and integrate leading theoretical models (PP, GWT, Embodiment), while also showing conceptual resonance with fundamental Buddhist principles (*Anattā*, *Anicca*, *Paṭiccasamuppāda*, *khandhas*). This convergence suggests EPET's potential heuristic value and plausibility.
