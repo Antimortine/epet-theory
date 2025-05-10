@@ -1,0 +1,111 @@
+# Supplementary Materials B: Extended Comparisons of EPET with Other Theories
+
+This section provides extended discussions comparing the Emergent Predictive Experience Theory (EPET) with other prominent theories of consciousness, elaborating on points summarized in the main manuscript's Section 6.
+
+
+## B.1 Extended Comparison: EPET vs. Integrated Information Theory (IIT)
+
+*(This section expands on the summary provided in the main text, Section 6.4)*
+
+While both EPET and Integrated Information Theory (IIT) [@tononiIntegratedInformationTheory2016] highlight the importance of information integration for consciousness, their approaches diverge significantly in metaphysics, methodology, and implications.
+
+**Key Differences:**
+
+1.  **Nature of Integration:** IIT quantifies integration using a mathematical measure, Φ ("Phi"), derived from the causal structure of a system's mechanism in a particular state. High Φ is considered identical to consciousness. This measure is often interpreted as **static**, characterizing the system's potential for integrated information at a moment. EPET, conversely, treats integration as a **dynamic, ongoing process** realized through specific neurocomputational mechanisms – namely, the interplay of hierarchical Predictive Processing (PP) generating content and Global Workspace Theory (GWT) enabling global access and binding. EPET focuses on the *process dynamics* (prediction error minimization, precision weighting, global broadcasting, recurrent stabilization) rather than a single quantitative measure.
+
+2.  **Metaphysical Implications:** IIT's axiomatic framework, particularly the "existence" axiom tied to Φ, leads many interpreters (including some proponents) towards **panpsychist or panprotopsychist implications**. If consciousness *is* Φ, and Φ can be calculated for many physical systems (potentially even simple ones, depending on the interpretation of "mechanism"), then consciousness might be a fundamental or widespread property of matter. This raises the challenging **combination problem**: how do micro-consciousnesses or micro-Φ values combine to form the unified macro-consciousness we experience? EPET, grounded in **non-reductive (weak) emergentist physicalism**, explicitly avoids panpsychism. Consciousness, in EPET, is not fundamental but emerges only when a physical system achieves a specific high-level of organizational complexity (integrated, embodied predictive modeling). This emergentist stance sidesteps the combination problem by positing that consciousness is a property of the organized whole, not its fundamental parts.
+
+3.  **Computational and Empirical Tractability:** Calculating Φ for complex systems like the human brain is computationally prohibitive, and the measure itself has faced theoretical challenges, such as the **non-uniqueness problem** highlighted by [@hanson2021nonuniqueness], which questions whether Φ provides a consistent measure. EPET, by grounding itself in PP and GWT mechanisms, aligns more directly with observable brain dynamics (e.g., neural oscillations, ERP components, network connectivity) and cognitive functions, making its claims potentially more amenable to empirical investigation through standard cognitive neuroscience methods.
+
+4.  **Relation to Process Philosophy and Biology:** EPET's emphasis on dynamic, moment-to-moment processing resonates with process philosophies and biological perspectives that view mind as an ongoing activity of a living system. Its focus on prediction error minimization connects consciousness to adaptive regulation and homeostasis. IIT's more abstract, information-theoretic formalism is sometimes seen as less directly connected to biological function, although proponents argue Φ reflects intrinsic causal power relevant to biological systems. EPET's processual view also aligns naturally with the Buddhist concepts of impermanence (Anicca) and dependent origination (Paṭiccasamuppāda), emphasizing the conditional and transient nature of conscious states [@bodhiTranscendentalDependentArising1980], a connection less evident in IIT's framework.
+
+5.  **Emergentist Interpretations of IIT:** Some recent work attempts to reconcile IIT with emergentism. For example, [@Negro2022] proposes an "Emergentist IIT" where Φ represents the emergent causal power of the integrated system, acting as a form of "global-to-local determination." While this brings IIT closer to an emergentist picture, EPET argues that its own framework offers a more direct and parsimonious emergentist account based on the well-supported mechanisms of PP and GWT, without needing to adopt the specific axiomatic structure and mathematical formalism of IIT, which remain subjects of ongoing debate.
+
+In summary, while both theories value integration, EPET offers a dynamic, process-based, emergentist, and mechanistically grounded alternative to IIT's more static, formal, and potentially panpsychist approach.
+
+
+## B.2 Extended Comparison: EPET vs. Higher-Order Theories (HOR)
+
+*(This section expands on the summary provided in the main text, Section 6.5)*
+
+Higher-Order Representation (HOR) theories of consciousness posit that a mental state M becomes a conscious state C only if the subject has another, distinct mental state M\* that represents M [@carruthersHigherOrderTheoriesConsciousness2023]. This higher-order state can be a thought (Higher-Order Thought theory, HOT) or a perception (Higher-Order Perception theory, HOP). EPET contrasts significantly with HOR theories regarding the nature of basic phenomenal consciousness (qualia).
+
+**Key Differences:**
+
+1.  **First-Order vs. Higher-Order Nature of Qualia:** EPET is primarily a **first-order theory** concerning the realization of basic phenomenal qualities. It holds that the integrated predictive modeling process (PP-GWT synthesis), when achieving sufficient complexity, stability, and global availability, *intrinsically possesses* phenomenal character. The "what-it's-likeness" is a property of the first-order state itself. HOR theories, by contrast, deny that first-order states possess intrinsic phenomenality; consciousness arises only when these states are *targeted* by a higher-order representation.
+
+2.  **Addressing HOR Challenges:** EPET's first-order stance avoids several standard challenges faced by HOR theories:
+    *   **The Problem of the Target:** How can a non-conscious first-order state become conscious simply by being represented? How does the higher-order state confer phenomenality? EPET avoids this by locating phenomenality in the first-order process itself.
+    *   **Potential Infinite Regress:** If the higher-order state M\* must itself be conscious to confer consciousness on M, this seems to require a further state M\*\*, leading to a regress. Most HOR theories stipulate M\* is unconscious, but this raises the first problem again. EPET's first-order view avoids this regress.
+    *   **Misrepresentation:** HOR theories struggle with cases where the higher-order state might misrepresent the first-order state. What is the subject conscious *of* in such cases? In EPET, the conscious state *is* the (globally available) first-order predictive state, reducing the scope for such mismatches regarding basic qualia.
+
+3.  **Role of Meta-Representation in EPET:** While EPET is first-order regarding basic qualia, it does **incorporate meta-representational capacities** to explain higher levels of awareness, such as **self-awareness and introspection**. This capacity is realized via the **recursive predictive self-model** [@hohwyPredictiveMind2013; @metzingerBeingNoOne2004]. The self-model allows the system to represent its own states (including perceptual states) and attribute them to a self. This aligns with the functions often attributed to higher-order states in HOR theories, but in EPET, these meta-representations explain *reflective consciousness* or *self-consciousness*, not the raw phenomenal feel of basic sensory experience. The ability to introspect or report on one's state depends on this self-modeling capacity accessing the globally available first-order content, but the content itself is phenomenal prior to this access.
+
+In summary, EPET differs from HOR theories by grounding basic phenomenal consciousness in the properties of first-order integrated predictive states, while reserving higher-order representational functions (realized via the self-model) for explaining self-awareness and introspection. This allows EPET to account for different levels of consciousness while avoiding some of the conceptual difficulties associated with standard HOR accounts.
+
+
+## B.3 Extended Comparison: EPET vs. Functionalism
+
+*(This section expands on the summary provided in the main text, Section 6.6)*
+
+Functionalism, in its various forms, defines mental states (including conscious states) by their causal roles or functions within a cognitive system, rather than by their intrinsic physical constitution [@putnamPsychologicalPredicates1967; @lewis15PsychophysicalTheoretical2013]. EPET shares with functionalism an emphasis on the processual nature of mind and the importance of understanding the functional roles that conscious states play (e.g., information integration, behavioral control).
+
+However, EPET diverges significantly from standard or 'machine-state' functionalism, particularly regarding the explanation of phenomenal consciousness (qualia).
+
+**Key Points of Divergence:**
+
+1.  **The Problem of Qualia:** Classic functionalism faces the well-known challenge of accounting for the qualitative character of experience, often referred to as the problem of "absent qualia" or "inverted qualia" [@block22TroublesFunctionalism2013]. If mental states are defined solely by their functional role (inputs, outputs, and relations to other states), it seems logically possible for a system (e.g., a complex robot or a simulated brain) to perfectly replicate the functional organization of a conscious human brain without possessing any subjective experience, or possessing different qualia (e.g., seeing red where we see green). Functionalism struggles to explain *why* performing a certain function should *feel* a certain way.
+
+2.  **Importance of Physical Realization:** EPET counters this by arguing that the **specifics of the physical realization base are crucial and constitutive** of qualia. It's not just the abstract functional role, but *how* that role is implemented through the particular dynamics of an integrated, embodied predictive process within a living system that determines the phenomenal character. EPET posits (as detailed in Section 4 of the main text) that qualia are intrinsic properties of this specific kind of emergent physical process. This involves hierarchical predictive coding, recurrent neural dynamics, global workspace integration, and, critically, continuous interaction with and modeling of the living body (interoception, homeostasis).
+
+3.  **Embodiment and Biological Context:** EPET emphasizes that consciousness, as we know it, arises within biological organisms engaged in active, adaptive regulation. The constant flow of interoceptive signals and the imperative to maintain physiological viability provide a grounding context for experience, particularly for affective valence. Pure functionalism, by abstracting away from the implementation details, often neglects this deep embedding in biological life support systems. EPET suggests that this biological embedding is not merely incidental but partially constitutive of the phenomenal feel.
+
+4.  **Critique of Computational Sufficiency:** EPET's stance aligns with arguments questioning whether mere computational simulation is sufficient for consciousness. As discussed by [@Wiese2024] from a Free Energy Principle perspective, the specific causal structure and autonomous dynamics of self-organizing living systems might be necessary conditions that are not captured by purely formal or algorithmic descriptions. EPET similarly insists that the *dynamic, material process* of embodied predictive modeling, not just an abstract computation, realizes consciousness. This avoids the implication of some functionalist views that consciousness could arise in any system (like Searle's Chinese Room performing symbolic manipulations) that implements the right causal graph, regardless of its material substrate or biological context.
+
+5.  **Avoiding Arbitrariness:** By linking qualia to the specific properties of the realization base (the integrated, embodied predictive process), EPET aims to provide a less arbitrary account of phenomenal character than implementation-neutral functionalism. The specific way the system models sensory input, integrates it with bodily states, and evaluates its relevance within a global workspace is hypothesized to directly constitute the specific feel of the experience.
+
+In conclusion, while EPET incorporates functionalist insights about the roles of conscious states, it rejects the implementation-independence often associated with pure functionalism. It argues for a form of **realization-sensitive functionalism** or, more accurately, an **emergentist physicalism** where the specific dynamic and embodied nature of the realizing process is constitutive of phenomenal experience.
+
+
+## B.4 Extended Comparison: EPET vs. Illusionism
+
+*(This section expands on the summary provided in the main text, Section 6.7)*
+
+Illusionism about phenomenal consciousness, particularly in its strong form, argues that subjective, qualitative experience (qualia) as traditionally conceived does not actually exist; it is a kind of cognitive illusion, a mistaken representation or judgment generated by our brains [@dennettConsciousnessExplained1993; @frankishIllusionismTheoryConsciousness2016; @carruthersStopCaringConsciousness2020]. Proponents suggest that once we fully explain the functional and representational properties of the brain, there is no further 'hard problem' of qualia left to solve, because the supposed explanandum (intrinsic, private, ineffable feel) was illusory from the start.
+
+EPET fundamentally diverges from this **eliminativist** stance.
+
+**Key Points of Contrast:**
+
+1.  **Reality of Phenomenal Experience:** EPET affirms the **reality of subjective experience**. It treats the "what-it's-likeness" of consciousness as a genuine natural phenomenon that requires explanation, not elimination. In EPET's framework, qualia are identified with real, intrinsic properties of the emergent, integrated, embodied predictive modeling process (as detailed in Section 4 of the main text). They are considered high-level physical properties, novel at the system-level but fully grounded in underlying physical dynamics.
+
+2.  **Explaining vs. Explaining Away:** Illusionism seeks to *explain away* qualia by showing how the *illusion* of phenomenal experience arises from non-phenomenal cognitive processes (e.g., misapplied concepts, introspective errors, functional states that mimic qualitative presence). EPET, in contrast, aims to *explain* qualia by identifying them with specific features of a complex physical process. It offers a **constitutive explanation**: to be a certain kind of integrated predictive process *is* to have a certain kind of phenomenal experience.
+
+3.  **Agreement on Conceptual Errors (Weak Illusionism):** While rejecting strong illusionism, EPET can accommodate a form of **weak illusionism** or **conceptual critique**. EPET acknowledges that our *folk-psychological concepts* or introspective beliefs about qualia (e.g., that they are simple, intrinsic, non-physical properties) might be partly mistaken or misleading [@dennettQuiningQualia1988]. Similarly, EPET's view of the self as a constructed self-model aligns with the idea that our intuitive sense of a substantial, enduring self might be illusory (resonating with the Buddhist principle of Anattā). However, EPET maintains that these potential errors in *conceptualization* or *self-representation* do not negate the reality of the underlying first-person phenomenal experience itself. There is still *something it is like* to undergo the process, even if our descriptions of that "likeness" are fallible.
+
+4.  **Alignment with Critiques of Strong Illusionism:** EPET's position aligns with contemporary philosophical critiques of strong illusionism. Critics argue that illusionism faces significant challenges, such as explaining why the "illusion" of consciousness is so pervasive and compelling, and addressing the intuition that denying the reality of subjective feeling (especially suffering) is counterintuitive or even ethically problematic. Furthermore, as argued by [@balog2020disillusioned] and [@chalmers2020meta], physicalist theories might be able to explain our "problem intuitions" about consciousness (the meta-problem) without needing to deny the existence of phenomenal states themselves (e.g., via the Phenomenal Concept Strategy, which EPET implicitly utilizes in its approach to the explanatory gap).
+
+In summary, EPET offers a **realist but non-dualist** alternative to illusionism. It takes subjective experience seriously as an explanandum but seeks to naturalize it within an emergentist physicalist framework by identifying qualia with specific, complex physical processes, rather than eliminating them as cognitive fictions.
+
+
+## B.5 Extended Comparison: EPET vs. Panpsychism
+
+*(This section expands on the summary provided in the main text, Section 6.8)*
+
+Panpsychism represents a family of views unified by the core claim that consciousness, or some proto-form of it (proto-consciousness), is a fundamental and ubiquitous feature of physical reality, present even at the level of elementary particles or fields [@strawsonRealisticMonismwhyPhysicalism2006; @goffConsciousnessFundamentalReality2017; @chalmersPanpsychismPanprotopsychism2013]. It is often motivated as a solution to the mind-body problem, particularly the 'hard problem' of consciousness, by suggesting that consciousness doesn't mysteriously emerge from non-conscious matter but is intrinsic to matter itself.
+
+EPET, as an **emergentist physicalist theory**, offers a fundamentally different perspective.
+
+**Key Points of Contrast:**
+
+1.  **Fundamental vs. Emergent Consciousness:** This is the core divergence. Panpsychism treats consciousness (or proto-consciousness) as ontologically basic. EPET treats consciousness as **derivative and emergent** – it arises only when physical systems achieve a specific threshold of organizational complexity and dynamics, identified by EPET as integrated, embodied predictive modeling involving mechanisms like Predictive Processing (PP) and Global Workspace Theory (GWT). Consciousness is a property of the complex system, not its fundamental constituents.
+
+2.  **The Combination Problem:** A major challenge for panpsychism is the **combination problem**: if fundamental entities possess micro-consciousness or proto-phenomenal properties, how do these combine to form the unified, complex macro-consciousness experienced by humans and other animals? How do myriad simple subjects or experiences bind into one complex subject or experience? This problem has proven notoriously difficult to solve, with various proposed solutions (e.g., phenomenal bonding, constitutive panpsychism) facing their own conceptual hurdles. EPET's emergentism **avoids the combination problem** entirely, as it does not posit consciousness at the micro-level. The unity of consciousness, in EPET, is explained by integrative mechanisms (like GWT) operating at the macro-level of brain organization.
+
+3.  **Empirical Grounding and Testability:** Panpsychism faces significant challenges regarding empirical evidence and testability. There is currently no direct empirical evidence for consciousness in simple physical systems like electrons or quarks. Furthermore, it is difficult to conceive of experiments that could definitively detect or measure micro-consciousness. EPET, by linking consciousness to specific, complex biological and computational processes (PP, GWT, embodiment), aligns more closely with empirical findings in neuroscience and cognitive science, which consistently show consciousness correlating with complex brain activity. EPET's claims about the necessary conditions for consciousness (e.g., involving specific neural dynamics or predictive architectures) are, in principle, more amenable to empirical investigation and falsification [@gaetanolicataPanpsychismEmergentismMindbody2024].
+
+4.  **Parsimony:** From the perspective of ontological parsimony (Ockham's Razor), emergentism is often considered more parsimonious than panpsychism. Emergentism seeks to explain consciousness using the known fundamental constituents and laws of physics, plus principles of organization and complexity. Panpsychism introduces a new fundamental property (consciousness or proto-consciousness) into the basic ontology of the world, which might be seen as less parsimonious unless strongly motivated.
+
+5.  **Resonance with Biological and Process Views:** EPET's emergentism, particularly its emphasis on consciousness arising from the dynamic processes of a living, embodied system engaged in predictive regulation, resonates well with biological perspectives. Recent views like **"bioprotopsychism"** [@yurchenko2024panpsychism] explicitly link the origins of consciousness to life and self-organizing, predictive systems governed by principles like the Free Energy Principle, offering a middle ground that avoids attributing consciousness to all matter. EPET aligns with this biologically grounded emergentist trend. Furthermore, EPET's processual view, influenced by Buddhist concepts of conditionality and impermanence, contrasts with the potentially more static view of consciousness as a fundamental property inherent in matter.
+
+In summary, EPET offers an emergentist alternative to panpsychism that aims to be more empirically grounded, parsimonious, and free from the combination problem, while still providing a framework for understanding how consciousness arises from physical systems through specific organizational principles.
