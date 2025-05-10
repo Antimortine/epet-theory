@@ -81,7 +81,7 @@ If EPET's constitutive explanation within emergentist physicalism holds (4.4.2),
 By proposing a constitutive explanation of qualia (4.4.2) realized through weak emergence (4.4.3), and by highlighting these epistemic factors rooted in our conceptual scheme (4.4.4), EPET aims to **make the 'hard problem' more tractable**. It seeks to show that many of the 'problem intuitions' that fuel the sense of an unbridgeable gap can be understood as arising from these conceptual and epistemic features, rather than from an underlying ontological duality. This perspective also offers a way to address classic thought experiments like the Knowledge Argument (Mary's Room) and the Zombie Argument within a physicalist framework (see Supplementary Materials D for discussion).
 
 
-**4.4.5. Avoiding Panpsychism and Dualism**
+### 4.4.5. Avoiding Panpsychism and Dualism
 
 This overall explanatory strategy—grounding qualia in emergent physical processes (4.4.2, 4.4.3) and addressing the explanatory gap via epistemic factors (4.4.4)—allows EPET to avoid less parsimonious or scientifically intractable metaphysical positions:
 
