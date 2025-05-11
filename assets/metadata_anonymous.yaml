@@ -2,7 +2,7 @@
 title: "Emergent Predictive Experience Theory (EPET): An Integrative Philosophy of Consciousness"
 # --- Bibliography and Citations ---
 bibliography: output/references_for_submission.bib
-csl: assets/csl/chicago-author-date.csl
+csl: assets/csl/chicago-fullnote-bibliography-with-ibid.csl
 link-citations: true
 # --- Document Settings ---
 lang: en-US
