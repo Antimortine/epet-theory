@@ -75,6 +75,7 @@ In contrast to panpsychism, which posits consciousness as a fundamental feature 
 EPET positions itself as an integrative, non-reductive physicalist framework aiming for philosophical coherence, empirical plausibility, and explanatory power regarding core problems like qualia and the self, while avoiding problematic metaphysical extremes.
 
 Its key distinctions include:
+
 *   **vs. Pure PP/GWT:** EPET integrates PP (for content/qualia generation) and GWT (for access/unity), enriching both through embodiment and a specific emergentist philosophy (Sections 6.1, 6.2).
 *   **vs. Formal PP+GWT Models (e.g., PGNW [@whytePredictiveGlobalNeuronal2021]):** While sharing the core mechanistic integration, EPET provides a broader philosophical interpretation concerning emergence, qualia constitution, embodiment, and the nature of the self.
 *   **vs. IIT:** EPET offers a dynamic, process-based emergentist account without IIT's static formalism, computational challenges, or panpsychist implications (Section 6.4).
