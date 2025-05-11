@@ -24,7 +24,7 @@ SUBMISSION_BIB_DEPENDS_ON = $(MD_FILES_LIST_ANON) $(shell cat $(MD_FILES_LIST_AN
 COMMON_BIB = assets/references_common.bib
 SUBMISSION_BIB = output/references_for_submission.bib
 SM_BIB = output/references_for_sm.bib
-CSL_FILE = assets/csl/chicago-fullnote-bibliography-with-ibid.csl
+CSL_FILE = assets/csl/chicago-note-bibliography-with-ibid.csl
 
 # --- Скрипт генерации Bib ---
 PYTHON = python3

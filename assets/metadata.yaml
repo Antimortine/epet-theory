@@ -7,7 +7,7 @@ author: |
 date: "May 2025"
 # --- Bibliography and Citations ---
 bibliography: output/references_for_submission.bib
-csl: assets/csl/chicago-fullnote-bibliography-with-ibid.csl
+csl: assets/csl/chicago-note-bibliography-with-ibid.csl
 link-citations: true
 # --- Document Settings ---
 lang: en-US
