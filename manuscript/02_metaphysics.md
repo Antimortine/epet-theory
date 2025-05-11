@@ -24,7 +24,7 @@ EPET's emergentist physicalism conceptually resonates with the Buddhist principl
 
 This resonance is evident in several parallels:
 1.  **Conditionality of Consciousness:** EPET views consciousness as arising only under complex specific conditions (a functioning brain-body system, environmental interaction, specific neural patterns), aligning with the Buddhist emphasis on conditionality.
-2.  **Absence of a Substantial Basis:** Just as Buddhist thought (particularly *Anattā*) denies a permanent, independent self (Ātman), EPET’s emergentism rejects any separate mental substance or fundamental, universally distributed consciousness. Consciousness is a pattern of organization, not an independent "thing."
+2.  **Absence of a Substantial Basis:** Just as Buddhist thought (particularly the no-self doctrine (*Anattā*)) denies a permanent, independent self (*Ātman*), EPET’s emergentism rejects any separate mental substance or fundamental, universally distributed consciousness. Consciousness is a pattern of organization, not an independent "thing."
 3.  **Interdependence:** The Buddhist emphasis on the interdependence of phenomena mirrors the scientific view of emergent systems. EPET’s emergentism implies complex, bidirectional interactions across levels of organization and between the system and its environment, where consciousness is a novel, system-level phenomenon arising from these intricate interdependencies.
 
 This metaphysical grounding, emphasizing conditionality and non-substantiality, supports EPET's specific theses on the nature of conscious experience as an emergent process with intrinsic phenomenal characteristics.
