@@ -24,7 +24,7 @@ To avoid mere redescription, EPET specifies the "properties of the process" hypo
     <!-- Pandoc Table -->
     | Phenomenal Dimension | Corresponding Process Characteristic(s) in EPET | Key References |
     | :------------------- | :---------------------------------------------- | :------------- |
-    | **Specificity/Quality** (e.g., "red" vs "blue") | Specific pattern/region in state space occupied by the predictive model (learned via statistics). | |
+    | **Specificity/Quality** (e.g., "red" vs "blue") | Specific pattern/region in state space occupied by the predictive model (learned via statistics). | [@Brouwer2009; @Churchland2007] |
     | **Intensity/Clarity** (e.g., vividness) | Dynamic properties: stability, signal strength (rate/synchrony), assigned **precision**. | [@hohwyPredictiveMind2013] |
     | **Affective Valence** (pleasant/unpleasant) | Ongoing evaluation of **interoceptive prediction errors** relative to goals. Valence *is* the phenomenal character. | [@sethInteroceptiveInferenceEmotion2013; @barrettTheoryConstructedEmotion2017] |
 
