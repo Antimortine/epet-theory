@@ -87,18 +87,18 @@ $(OUTPUT_PDF): $(MD_FILES_LIST_FULL) $(METADATA) $(SUBMISSION_BIB) $(CSL_FILE) M
 		$(MD_FILES_FULL) -o $@
 	@echo ">>> Building FULL PDF finished."
 
-# 2. Анонимный PDF (зависит от WORD_COUNT_FILE, использует MD_FILES_ANON)
-# Включает файл счетчика слов ПЕРЕД основными файлами
-$(ANONYMOUS_PDF_OUTPUT): $(MD_FILES_LIST_ANON) $(ANONYMOUS_METADATA) $(WORD_COUNT_FILE) Makefile $(ALL_MD_FILES_ANON)
+# 2. Анонимный PDF
+$(ANONYMOUS_PDF_OUTPUT): $(MD_FILES_LIST_FULL) $(ANONYMOUS_METADATA) $(SUBMISSION_BIB) $(CSL_FILE) Makefile $(ALL_MD_FILES_FULL)
 	@echo ">>> Building ANONYMOUS PDF for submission: $(ANONYMOUS_PDF_OUTPUT)..."
 	@mkdir -p output
 	$(PANDOC) \
 		--metadata-file=$(ANONYMOUS_METADATA) \
+		--bibliography=$(SUBMISSION_BIB) \
+		--citeproc \
 		--standalone \
 		--pdf-engine=$(PDF_ENGINE) \
 		--toc \
-		-V bibliography=false \
-		$(WORD_COUNT_FILE) $(MD_FILES_ANON) -o $@ # Включаем файл счетчика ПЕРЕД основными
+		$(MD_FILES_FULL) -o $@
 	@echo ">>> Building ANONYMOUS PDF finished."
 
 # 3. SM PDF (остается без изменений, использует SM_MD_FILES и SM_BIB)
