@@ -26,5 +26,9 @@ monofont: "DejaVu Sans Mono"
 polyglossia-lang:
   main: english
 # Other languages can be added if needed, e.g., for specific hyphenation, but usually not necessary
+header-includes: |
+  \PassOptionsToPackage{hyphens}{url}
+  \usepackage{xurl}
+  \urlstyle{same}
 # --- End of Metadata ---
 ...

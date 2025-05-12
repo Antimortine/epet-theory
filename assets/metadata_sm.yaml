@@ -21,5 +21,8 @@ sansfont: "DejaVu Sans"
 monofont: "DejaVu Sans Mono"
 polyglossia-lang:
   main: english
----
+header-includes: |
+  \PassOptionsToPackage{hyphens}{url}
+  \usepackage{xurl}
+  \urlstyle{same}
 ...
