@@ -5,6 +5,18 @@ author: |
   Independent Researcher\
   Email: a.v.kopnin@gmail.com
 date: "May 2025"
+abstract: |
+  This paper introduces the Emergent Predictive Experience Theory (EPET), an integrative framework addressing the hard problem of consciousness from a non-reductive emergentist physicalist perspective. EPET uniquely synthesizes insights from Predictive Processing (PP), Global Workspace Theory (GWT), embodied cognition, and core Buddhist philosophical principles (like Anattā, no-self). The theory posits consciousness as a real, emergent, dynamic process realized through integrated predictive modeling in an embodied, action-oriented system. Through a constitutive account, EPET explains subjective qualities (qualia) as intrinsic properties of this modeling process, reflecting the system's assessment of interaction relevance. The phenomenal self is interpreted as a dynamic construct from recursive self-modeling, compatible with the Anattā doctrine. By integrating these scientific and philosophical perspectives, EPET provides a coherent, naturalistic, and empirically testable explanation of conscious experience, avoiding common metaphysical pitfalls and offering a valuable framework for future interdisciplinary research.
+abstract-title: "Abstract"
+keywords:
+  - consciousness
+  - predictive processing
+  - global workspace theory
+  - emergentism
+  - Buddhist philosophy
+  - qualia
+  - self
+  - philosophy of mind 
 # --- Bibliography and Citations ---
 bibliography: output/references_for_submission.bib
 csl: assets/csl/chicago-note-bibliography-with-ibid.csl
@@ -30,5 +42,10 @@ header-includes: |
   \PassOptionsToPackage{hyphens}{url}
   \usepackage{xurl}
   \urlstyle{same}
+  \usepackage{etoolbox}
+  \AtEndEnvironment{abstract}{
+    \par\vspace{1em}
+    \noindent\textbf{Keywords:} consciousness, predictive processing, global workspace theory, emergentism, Buddhist philosophy, qualia, self, philosophy of mind
+  }
 # --- End of Metadata ---
 ...
