@@ -1,9 +1,9 @@
 # === Переменные ===
 
 # --- Имена файлов ---
-OUTPUT_PDF = output/EPET_Theory_1.4.pdf
-ANONYMOUS_PDF_OUTPUT = output/EPET_Manuscript_Anonymous_1.4.pdf
-SM_PDF_OUTPUT = output/EPET_Supplementary_Materials_1.4.pdf
+OUTPUT_PDF = output/EPET_Theory_1.5.pdf
+ANONYMOUS_PDF_OUTPUT = output/EPET_Manuscript_Anonymous_1.5.pdf
+SM_PDF_OUTPUT = output/EPET_Supplementary_Materials_1.5.pdf
 
 # --- Исходные Markdown файлы ---
 MD_FILES_LIST_ANON = manuscript/input_files.txt # Список для анонимной версии и подсчета слов
@@ -24,7 +24,7 @@ SUBMISSION_BIB_DEPENDS_ON = $(MD_FILES_LIST_ANON) $(shell cat $(MD_FILES_LIST_AN
 COMMON_BIB = assets/references_common.bib
 SUBMISSION_BIB = output/references_for_submission.bib
 SM_BIB = output/references_for_sm.bib
-CSL_FILE = assets/csl/chicago-author-date.csl
+CSL_FILE = assets/csl/chicago-note-bibliography-with-ibid.csl
 
 # --- Скрипт генерации Bib ---
 PYTHON = python3
@@ -87,18 +87,18 @@ $(OUTPUT_PDF): $(MD_FILES_LIST_FULL) $(METADATA) $(SUBMISSION_BIB) $(CSL_FILE) M
 		$(MD_FILES_FULL) -o $@
 	@echo ">>> Building FULL PDF finished."
 
-# 2. Анонимный PDF (зависит от WORD_COUNT_FILE, использует MD_FILES_ANON)
-# Включает файл счетчика слов ПЕРЕД основными файлами
-$(ANONYMOUS_PDF_OUTPUT): $(MD_FILES_LIST_ANON) $(ANONYMOUS_METADATA) $(WORD_COUNT_FILE) Makefile $(ALL_MD_FILES_ANON)
+# 2. Анонимный PDF
+$(ANONYMOUS_PDF_OUTPUT): $(MD_FILES_LIST_FULL) $(ANONYMOUS_METADATA) $(SUBMISSION_BIB) $(CSL_FILE) Makefile $(ALL_MD_FILES_FULL)
 	@echo ">>> Building ANONYMOUS PDF for submission: $(ANONYMOUS_PDF_OUTPUT)..."
 	@mkdir -p output
 	$(PANDOC) \
 		--metadata-file=$(ANONYMOUS_METADATA) \
+		--bibliography=$(SUBMISSION_BIB) \
+		--citeproc \
 		--standalone \
 		--pdf-engine=$(PDF_ENGINE) \
 		--toc \
-		-V bibliography=false \
-		$(WORD_COUNT_FILE) $(MD_FILES_ANON) -o $@ # Включаем файл счетчика ПЕРЕД основными
+		$(MD_FILES_FULL) -o $@
 	@echo ">>> Building ANONYMOUS PDF finished."
 
 # 3. SM PDF (остается без изменений, использует SM_MD_FILES и SM_BIB)

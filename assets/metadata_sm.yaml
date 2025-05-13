@@ -4,7 +4,7 @@ title: "Supplementary Materials for Emergent Predictive Experience Theory (EPET)
 # date: "May 2025"
 # --- Bibliography and Citations ---
 bibliography: output/references_for_sm.bib
-csl: assets/csl/chicago-author-date.csl
+csl: assets/csl/chicago-note-bibliography-with-ibid.csl
 link-citations: true
 # --- Document Settings ---
 lang: en-US
@@ -21,5 +21,8 @@ sansfont: "DejaVu Sans"
 monofont: "DejaVu Sans Mono"
 polyglossia-lang:
   main: english
----
+header-includes: |
+  \PassOptionsToPackage{hyphens}{url}
+  \usepackage{xurl}
+  \urlstyle{same}
 ...
